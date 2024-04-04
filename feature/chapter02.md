@@ -7,10 +7,10 @@ Se ha reconocido a Noom, Peloton y FitnessPal como los principales competidores 
 ### 2.1.1. Análisis competitivo
 
 ![analisis](assets/chapter02/analisis.png)
+![analisis](assets/chapter02/analisis1.png)
 ![analisis](assets/chapter02/analisis2.png)
 ![analisis](assets/chapter02/analisis3.png)
 ![analisis](assets/chapter02/analisis4.png)
-![analisis](assets/chapter02/analisis5.png)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
