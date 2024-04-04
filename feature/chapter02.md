@@ -6,7 +6,7 @@ Se ha reconocido a Noom, Peloton y FitnessPal como los principales competidores 
 
 ### 2.1.1. Análisis competitivo
 
-![analisis](assets/chapter02/analisis1.png)
+![analisis](assets/chapter02/analisis.png)
 ![analisis](assets/chapter02/analisis2.png)
 ![analisis](assets/chapter02/analisis3.png)
 ![analisis](assets/chapter02/analisis4.png)
@@ -47,8 +47,8 @@ Atender las necesidades y comentarios de nuestros usuarios para brindar un servi
 
 ### 2.3.2. User Task Matrix
 
-![taskMatrix](assets/chapter02/taskMatrix1.png)
-![taskMatrix](assets/chapter02/taskMatrix2.png)
+![taskMatrix](assets/chapter02/userTaskMatrix.png)
+![taskMatrix](assets/chapter02/userTaskMatrix2.png)
 
 ### 2.3.3. User Journey Mapping
 
