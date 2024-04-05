@@ -167,7 +167,9 @@ Basado en nuestras soluciones elaboramos un to be Scenario Mapping para observar
 | THINKING    | Piensa en como los datos recopilados pueden proporcionar una visión completa de la salud del cliente y orientar las recomendaciones futuras | Piensa en como adaptar las recomendaciones para abordar las necesidades específicas del cliente y ayudarlo a alcanzar sus objetivos de salud |  Piensa en estrategias para mantener la motivación del cliente y proporcionar orientación constante a medida que avanza en su viaje de salud y bienestar
 | FEELING    | Siente confianza al obtener información detallada para ofrecer recomendaciones precisas y personalizadas | Siente satisfacción al ayudar al cliente a comprender y mejorar su relación con la alimentación y la salud | Siente gratificación al ver el progreso del cliente y saber que su guía está marcando una diferencia positiva en su bienestar
 <br>
+
 ## 3.2. User Stories
+
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
 |-----------------|--------|-------------|-------------------------|---------|
 | EP01/US01       | Creación de cuenta de usuario   | Como usuario, quiero poder crear una cuenta para acceder a todas las funcionalidades de la aplicación. | Given que el usuario ha ingresado sus datos de registro correctamente,<br><br> When el usuario hace clic en el botón "Registrarse", <br><br>Then la cuenta del usuario se crea exitosamente y se le redirige a la página de inicio.  | EP01
@@ -192,8 +194,6 @@ Basado en nuestras soluciones elaboramos un to be Scenario Mapping para observar
 | EP08/US01 | Mostrar testimonios de clientes satisfechos | Como usuario, quiero poder ver testimonios auténticos de otros clientes que hayan recibido consejos nutricionales y servicios personalizados, destacando los resultados positivos obtenidos y su satisfacción con la experiencia. | Given que accedo a la sección de testimonios en la aplicación, <br><br>When visualizo los testimonios disponibles, <br><br>Then veo testimonios auténticos de clientes, incluyendo sus resultados positivos y satisfacción con la experiencia. | EP08 |
 | EP08/US02 | Realizar encuestas de satisfacción del cliente | Como usuario, quiero realizar encuestas periódicas para que puedan recopilar mis comentarios, opiniones y sugerencias sobre mi experiencia en la aplicación. | Given que accedo a la sección de encuestas de satisfacción en la aplicación, <br><br>When completo la encuesta proporcionando mis comentarios y sugerencias, <br><br>Then mis respuestas son recopiladas para mejorar la experiencia del usuario. | EP08 |
 | EP09/US01 | Desarrollar plataforma de ayuda y consultas en línea | Como equipo de desarrollo, queremos desarrollar una plataforma en línea donde los clientes puedan acceder a recursos de ayuda, preguntas frecuentes y enviar consultas que serán respondidas dentro de un plazo por un especialista en nutrición. | Given que estoy en la página principal de la aplicación, <br><br>When navego a la sección de ayuda y consultas, <br><br>Then encuentro recursos de ayuda, preguntas frecuentes y un formulario para enviar consultas. | EP09 |
-
-
 
 ## 3.3. Impact Mapping
 El Impact mapping es una técnica de planificación ligera y colaborativa para los equipos, como el nuestro, que desean tener un gran impacto con los productos de software. Se basa en el diseño de la interacción del usuario, la planificación basada en resultados y la asignación mental.
