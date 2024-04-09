@@ -254,6 +254,11 @@ el tamaño de la pantalla.</td>
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+<img src="assets/chapter04/LandingaPage-wireframe-desktop.png" alt="Landing Page web">
+
+**Landing Page para Mobile Web Browser**
+<img src="assets/chapter04/LandingPage-wireframe-mobile.png" alt="Landing Page mobile">
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
