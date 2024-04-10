@@ -19,11 +19,11 @@ Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y respons
 
 <!-- Imagen!-->
 
-**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>
-<!-- Imagen!-->
+**Typography:** <td>El tamaño de las tipografías, elegido por el equipo fueron:</td>
+<img src="assets/chapter04/Typography-stylesheet.png" alt="Typography">
 
 **Colors:** <td></td>
-<!-- Imagen!-->
+<img src="assets/chapter04/Colors-stylesheet.png" alt="Colors">
 
 ### 4.1.2. Web Style Guidelines
 <td>Para FlexPal, estamos planeando desarrollar una plataforma web. Por lo tanto, implementaremos un diseño adaptable (conocido como Web Responsive Design) con el objetivo de optimizar la presentación de información en cualquier dispositivo. Esto asegurará que el contenido se mantenga intacto y, en última instancia, mejorará la experiencia del usuario.</td>
