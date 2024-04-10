@@ -7,7 +7,7 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 
 **Brand overview**
 
-<td>Somos una compañía recién creada llamada "Flexpal" que quiere mejorar la salud de todos nuestros usuarios mediante ayuda personalizada.
+<td>Somos una compañía recién creada llamada "Gymfinity" que quiere mejorar la salud de todos nuestros usuarios mediante ayuda personalizada.
 Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.</td>
 <br><br>
 
