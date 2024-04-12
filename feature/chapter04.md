@@ -255,13 +255,57 @@ el tamaño de la pantalla.</td>
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
-<img src="assets/chapter04/LandingaPage-wireframe-desktop.png" alt="Landing Page web">
+<img src="assets/chapter04/LandingaPage-wireframe-desktop.png" alt="Landing Page web wireframe">
 
 **Landing Page para Mobile Web Browser**
-<img src="assets/chapter04/LandingPage-wireframe-mobile.png" alt="Landing Page mobile">
+<img src="assets/chapter04/LandingPage-wireframe-mobile.png" alt="Landing Page mobile wireframe">
 ### 4.3.2. Landing Page Mock-up
+**Landing Page para Desktop Web Browser**
+<img src="assets/chapter04/Web Browser-landingPage.png" alt="Landing Page (Mock up) web">
+
+**Landing Page para Mobile Web Browser**
+<img src="assets/chapter04/Mobile Browser-landingPage.png" alt="Landing Page (Mock up) mobile">
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+**Web Application para Desktop Web Browser**
+<br><br>
+<img src="assets/chapter04/Web Application Desktop-wireframe.png" alt="Web Application Deskktop">
+
+*Iniciar sesión*<br>
+<img src="assets/chapter04/Log In-wireframe.png" alt="Log in wireframe">
+
+*Crear cuenta*<br>
+<img src="assets/chapter04/Register-wireframe.png" alt="Register wireframe">
+
+*Mi perfil*<br>
+<img src="assets/chapter04/Profile-wireframe.png" alt="My profile wireframe">
+
+*Elegir plan de pago*<br>
+<img src="assets/chapter04/Suscriptions-wireframe.png" alt="Suscriptions plans wireframe">
+
+*Pasarela de pagos*<br>
+<img src="assets/chapter04/Payment hall-wireframe.png" alt="Payment hall wireframe">
+<img src="assets/chapter04/Confirm payment-wireframe.png" alt="Confirm payment wireframe">
+
+*Escribir testimonios*<br>
+<img src="assets/chapter04/Write testimonials-wireframe.png" alt="Testimonials wireframe">
+
+*Escribir dudas/quejas*<br>
+<img src="assets/chapter04/Complaints-wireframe.png" alt="Doubt/Complaints wireframe">
+
+*Preferencias del usuario*<br>
+<img src="assets/chapter04/User preferences-wireframe.png" alt="User Preference wireframe">
+
+*Lista de perfiles profesionales*<br>
+<img src="assets/chapter04/Professionals profiles list-wireframe.png" alt="Professionals profiles list wireframe">
+
+*Perfil del profesional*<br>
+<img src="assets/chapter04/Professionals profiles-wireframe.png" alt="Professional profile wireframe">
+
+**Web Application para Mobile Web Browser**
+<img src="assets/chapter04/Web Application Mobile-wireframe.png" alt="Web Application Mobile">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
