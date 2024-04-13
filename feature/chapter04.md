@@ -322,6 +322,8 @@ el tamaño de la pantalla.</td>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/chapter04/Class Diagram.png" alt="Class Diagram">
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
