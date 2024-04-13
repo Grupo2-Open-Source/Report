@@ -315,6 +315,8 @@ el tamaño de la pantalla.</td>
 <img src="assets/chapter04/Context Diagram.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams
+<img src="assets/chapter04/Container Diagram.png" alt="Container Diagram">
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
