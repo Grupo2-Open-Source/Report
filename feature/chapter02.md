@@ -437,4 +437,4 @@ Atender las necesidades y comentarios de nuestros usuarios para brindar un servi
 
 14. **Hábitos Saludables**: Comportamientos y prácticas diarias que contribuyen al bienestar físico, mental y emocional, como dormir lo suficiente, mantenerse hidratado y practicar ejercicio regularmente.
 
-15. **Foro de Discusión (Discussion Forum)**: Una plataforma en línea donde los usuarios pueden intercambiar ideas, hacer preguntas, compartir experiencias y brindar apoyo mutuo relacionado con la salud y el fitness.
+15. **Foro de Discusión**: Una plataforma en línea donde los usuarios pueden intercambiar ideas, hacer preguntas, compartir experiencias y brindar apoyo mutuo relacionado con la salud y el fitness.
