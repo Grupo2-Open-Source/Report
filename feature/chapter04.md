@@ -502,5 +502,7 @@ Analysis and Monitoring Component y Communication Component)**
   </tr> 
 
 </table>
-## 4.8. Database Design.
+
+## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
+<img src="assets/chapter04/Class Diagram.png" alt="Class Diagram">
