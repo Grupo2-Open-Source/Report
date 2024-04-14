@@ -324,6 +324,12 @@ realizar una recopilación y análisis para el Cliente
 <img src="assets/chapter04/Context Diagram.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams
+**En el diagrama de contenedores, se observan 
+la aplicación web, la landing page y la aplicación móvil. 
+Cada una de estas realiza solicitudes a la API de la aplicación.**
+
+<img src="assets/chapter04/Container Diagram.png" alt="Container Diagram">
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
