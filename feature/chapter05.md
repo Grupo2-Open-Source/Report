@@ -15,3 +15,18 @@ Para llevar a cabo nuestro proyecto, hemos empleado:
 <br><br>- *Herramientas:* Utilizamos las tecnologías más populares y recomendadas para el desarrollo de nuestra aplicación, como GitHub, Figma y WebStorm.
 
 ### 5.1.4. Software Deployment Configuration.
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.X. Sprint n
+### 5.2.X.1. Sprint Planning n.
+### 5.2.X.2. Sprint Backlog n.
+### 5.2.X.3. Development Evidence for Sprint Review.
+### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+### 5.2.X.5. Execution Evidence for Sprint Review.
+### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+### 5.2.X.8. Team Collaboration Insights during Sprint.
+### 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
