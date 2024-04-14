@@ -340,6 +340,8 @@ Analysis and Monitoring Component y Communication Component)**
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/chapter04/Class Diagram.png" alt="Class Diagram">
+
 ### 4.7.2. Class Dictionary
 <table>
 
