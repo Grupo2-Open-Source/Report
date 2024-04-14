@@ -312,6 +312,17 @@ el tamaño de la pantalla.</td>
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+**Nuestro diagrama de contexto muestra las relaciones principales de “”. 
+Este se relaciona primeramente con sus tres tipos de usuarios 
+(Cliente, Especialista y Coach) y dos sistemas externos a la 
+aplicación web. Communication System para realizar reuniones 
+(Zoom o Google Meet) y Analysis and monotoring System para 
+realizar una recopilación y análisis para el Cliente 
+(Adobe Analytics)**
+
+
+<img src="assets/chapter04/Context Diagram.png" alt="Context Diagram">
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
