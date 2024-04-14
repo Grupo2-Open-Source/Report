@@ -331,6 +331,13 @@ Cada una de estas realiza solicitudes a la API de la aplicación.**
 <img src="assets/chapter04/Container Diagram.png" alt="Container Diagram">
 
 ### 4.6.3. Software Architecture Components Diagrams
+**Se muestra los componentes. Se encuentra la seguridad para 
+la cuenta del usuario, el progreso, el análisis del progreso 
+y la comunicación (Security Service, Client Progress Service,
+Analysis and Monitoring Component y Communication Component)**
+
+<img src="assets/chapter04/Component Diagram.png" alt="Component Diagram">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
