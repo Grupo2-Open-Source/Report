@@ -317,5 +317,164 @@ el tamaño de la pantalla.</td>
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
+<table>
+
+  <tr>
+    <td colspan="1"><p>N</p></td>
+    <td colspan="1">Entidad</td>
+    <td colspan="1">Nombre de Tributos</td>
+    <td colspan="1">Definicion</td>
+    <td colspan="1">Tipo de Datos</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3">1</td>
+    <td colspan="1" rowspan="3">Usuario</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Usuario<br>(Numero de Usuarios)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">Nombre del Usuario</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">email</td>
+    <td colspan="1" valign="top">Email del Usuario</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="2">2</td>
+    <td colspan="1" rowspan="2">Coach</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Coach<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">especialidad</td>
+    <td colspan="1" valign="top">Especialidad de Coach</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="2">3</td>
+    <td colspan="1" rowspan="2">Nutricionista</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Nutricionista<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">especialidad</td>
+    <td colspan="1" valign="top">Especialidad de Nutricionista</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">4</td>
+    <td colspan="1" rowspan="3">Cliente</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Cliente<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">suscripcion</td>
+    <td colspan="1" valign="top">Tipo de Suscripcion</td>
+    <td colspan="1" valign="top">suscripcion</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">progreso</td>
+    <td colspan="1" valign="top">Avance de Cliente</td>
+    <td colspan="1" valign="top">progreso</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">5</td>
+    <td colspan="1" rowspan="3">Suscripcion</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Suscripcion<br>(Clave de membresia)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">precio</td>
+    <td colspan="1" valign="top">Costo</td>
+    <td colspan="1" valign="top">float</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">servicios</td>
+    <td colspan="1" valign="top">Lo que ofrece</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="6">6</td>
+    <td colspan="1" rowspan="6">Progreso</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Progreso<br>(Identificador por Cliente)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">fecha</td>
+    <td colspan="1" valign="top">Fecha de Registro</td>
+    <td colspan="1" valign="top">date</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">peso</td>
+    <td colspan="1" valign="top">Peso en KG</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">calorias_quemadas</td>
+    <td colspan="1" valign="top">Calorias quemadas despues<br>de cada dia o semana</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">distancia_corrida</td>
+    <td colspan="1" valign="top">Cantidad corrida del Cliente</td>
+    <td colspan="1" valign="top">float</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">ejercicios_realizado</td>
+    <td colspan="1" valign="top">Ejecicios realizados del Cliente</td>
+    <td colspan="1" valign="top">List<.Ejercicio></td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">7</td>
+    <td colspan="1" rowspan="3">ReunionVirtual</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Reunion<br>(url de Reunion)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">fecha</td>
+    <td colspan="1" valign="top">Fecha de Reunion</td>
+    <td colspan="1" valign="top">date</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">duracion</td>
+    <td colspan="1" valign="top">Tiempo de Reunion</td>
+    <td colspan="1" valign="top">time</td>
+  </tr> 
+
+  <tr>
+    <td colspan="1" rowspan="3">8</td>
+    <td colspan="1" rowspan="3">PlanAlimentario</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Plan<br>(Identificador por Cliente)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripcion</td>
+    <td colspan="1" valign="top">Descripcion<br>(Explica el Plan Alimentario)</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">recomendaciones</td>
+    <td colspan="1" valign="top">Lista de comidas recomendables</td>
+    <td colspan="1" valign="top">string</td>
+  </tr> 
+  
+</table>
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
