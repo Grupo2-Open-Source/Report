@@ -15,6 +15,14 @@ Para llevar a cabo nuestro proyecto, hemos empleado:
 <br><br>- *Herramientas:* Utilizamos las tecnologías más populares y recomendadas para el desarrollo de nuestra aplicación, como GitHub, Figma y WebStorm.
 
 ### 5.1.4. Software Deployment Configuration.
+A continuación, se detallará el proceso de implementación de nuestra landing page en la plataforma GitHub:
+
+- Comenzamos creando un repositorio remoto en GitHub.
+- Iniciamos el repositorio local utilizando el comando "git init".
+- Luego, agregamos el repositorio remoto y transferimos los archivos a la nube de GitHub.
+- Guardamos la configuración correspondiente.
+- Finalmente, confirmamos el despliegue de nuestra página web una vez completado todo el procedimiento.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 ### 5.2.X.1. Sprint Planning n.
