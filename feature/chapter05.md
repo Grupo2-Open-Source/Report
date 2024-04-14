@@ -10,4 +10,8 @@
 <br><br>- *CSS:* Una tecnología empleada para dar estilo a nuestras páginas web.**
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para llevar a cabo nuestro proyecto, hemos empleado:
+<br><br>- *Tecnologías:* Incorporamos algunas de estas tecnologías en el desarrollo de nuestra aplicación, como HTML5 y CSS.
+<br><br>- *Herramientas:* Utilizamos las tecnologías más populares y recomendadas para el desarrollo de nuestra aplicación, como GitHub, Figma y WebStorm.
+
 ### 5.1.4. Software Deployment Configuration.
