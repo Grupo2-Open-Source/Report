@@ -29,15 +29,83 @@ A continuación, se detallará el proceso de implementación de nuestra landing 
 - Finalmente, confirmamos el despliegue de nuestra página web una vez completado todo el procedimiento.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-### 5.2.X.1. Sprint Planning n.
-### 5.2.X.2. Sprint Backlog n.
-### 5.2.X.3. Development Evidence for Sprint Review.
-### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-### 5.2.X.5. Execution Evidence for Sprint Review.
-### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-### 5.2.X.8. Team Collaboration Insights during Sprint.
+### 5.2.1. Sprint 1
+### 5.2.1.1. 
+El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 1  </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> 2024-04-10 </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">Microoft Teams (Reuniones Virtuales)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1"></td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1"></td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Review Summary </td>
+            <td colspan="1"></td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+            <td colspan="1"></td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 Goal s </td>
+            <td colspan="1"></td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 1 Velocity </td>
+            <td colspan="1"></td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1"></td>
+		</tr>
+</tbody>
+</table>
+
+### 5.2.1.2. Sprint Backlog 1.
+### 5.2.1.3. Development Evidence for Sprint Review.
+### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo de desarrolladores pertenecientes a Gymfinity ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+![Evidencia1](assets/img/Evidencia1.png)
+![Evidencia2](assets/img/Evidencia2.png)
+![Evidencia3](assets/img/Evidencia3.png)
+![Evidencia4](assets/img/Evidencia4.png)
+![Evidencia5](assets/img/Evidencia5.png)
+![Evidencia6](assets/img/Evidencia6.png)
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+### 5.2.1.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
