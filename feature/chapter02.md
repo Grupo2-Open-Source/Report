@@ -142,11 +142,110 @@ Atender las necesidades y comentarios de nuestros usuarios para brindar un servi
 
 ## 2.2. Entrevistas
 
-### 2.2.1. Diseño de entrevistas
+El propósito de las entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestro objetivo es obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y así mejorar nuestro conocimiento sobre los usuarios. Estas conversaciones nos permitirán obtener una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requerimientos.
+### 2.2.1. Diseño de entrevistas.
+* **Individuos interesados en mejorar su salud y condición física:**
+1. ¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?
+2. ¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?
+3. ¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?
+4. ¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?
+5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
+6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
 
+* **Profesionales del coaching en ejercicio y alimentación:**
+1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
+2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
+3. ¿Qué beneficios ves en la posibilidad de ofrecer servicios de coaching en línea?
+4. ¿Qué herramientas o características crees que serían más útiles para ti al proporcionar servicios de coaching en línea a tus clientes?
+5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
+6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas
 
-### 2.2.3. Análisis de entrevistas
+- **Individuos interesados en mejorar su salud y condición física:**  
+
+**Entrevista #1** 
+
+Nombre y apellidos:  <br>
+Edad: <br>
+
+[URL_de_entrevista#1-1]()
+
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+
+**Resumen de la entrevista:**
+
+- - -
+**Entrevista #2**
+
+Nombre y apellidos:  <br>
+Edad: <br>
+
+[URL_de_entrevista#2-1]()
+
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+
+**Resumen de la entrevista:**
+- - -
+**Entrevista #3** <br>
+Nombre y apellidos:  <br>
+Edad: <br>
+
+[URL_de_entrevista#3-1]()
+
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+
+**Resumen de la entrevista:**
+
+- - -
+- **Profesionales del coaching en ejercicio y alimentación:**
+
+**Entrevista #1**
+
+Nombre y apellidos: Adrián Valerio <br>
+Edad: 22 años <br>
+
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/Efz8wi4LvnlNiIB_odnblJQBRQBBJHxhK5xwB2Axk4o2oQ?e=jDPaet&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![Entrevista_Seg02_NOMBREDELENTREVISTADO](assets/chapter02/Registro_Entrevista_Seg02_Valerio.png)
+
+**Resumen de la entrevista:** El entrevistado nos comenta a cerca de su gran interés a cerca de la actividad física cuando niño, por ello estudió y en estos momentos está sacando una certificación de coaching profesional mientras ejerce su carrera a sus 22 años. Para él, la comunicación usuario-coach es de lo más importante, y más si es virtual, pues, Adrián nos indica que hay una gran ventaja a comparación de la virtualidad, ya que feedbacks, consejos y regulaciones que brinda a sus usuarios puede ser más consistente, ya que la disponibilidad es más grande.
+
+**Entrevista #2**
+
+Nombre y apellidos:  <br>
+Edad: <br>
+[URL_De_Entrevista]()
+
+![Entrevista_Seg02_NOMBREDELENTREVISTADO](assets/chapter02/...)
+
+**Resumen de la entrevista:**
+
+
+### 2.2.3. Análisis de entrevistas.
+- #### Analisis Primer Segmento:
+![Pregunta1](assets/chapter02/Resultados_Segmento1_Pregunta1.png)
+![Pregunta2](assets/chapter02/Resultados_Segmento1_Pregunta2.png)
+![Pregunta3](assets/chapter02/Resultados_Segmento1_Pregunta3.png)
+![Pregunta4](assets/chapter02/Resultados_Segmento1_Pregunta4.png)
+![Pregunta5](assets/chapter02/Resultados_Segmento1_Pregunta5.png)
+![Pregunta6](assets/chapter02/Resultados_Segmento1_Pregunta6.png)
+Este análisis sugiere que ambos entrevistados comparten similitudes en términos de motivación, desafíos enfrentados y expectativas del servicio de coaching en línea. Identificar estas características comunes nos permitirá ayudar a orientar el diseño y desarrollo de la aplicación web para satisfacer las necesidades y expectativas de este grupo objetivo.
+
+- #### Analisis Segundo Segmento:
+![Pregunta1](assets/chapter02/Resultados_Segmento2_Pregunta1.png)
+![Pregunta2](assets/chapter02/Resultados_Segmento2_Pregunta2.png)
+![Pregunta3](assets/chapter02/Resultados_Segmento2_Pregunta3.png)
+![Pregunta4](assets/chapter02/Resultados_Segmento2_Pregunta4.png)
+![Pregunta5](assets/chapter02/Resultados_Segmento2_Pregunta5.png)
+![Pregunta6](assets/chapter02/Resultados_Segmento2_Pregunta6.png)
+Características comunes:
+
+- **Motivación y pasión**: Todos los entrevistados muestran una fuerte motivación y pasión por el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a mejorar su salud y bienestar.
+- **Reconocimiento de desafíos**: Los entrevistados reconocen los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones.
+- **Interés en la virtualidad**: Todos expresan un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, como la eliminación de barreras geográficas y una mayor flexibilidad para ellos y sus clientes.
+- **Importancia de herramientas y características esenciales**: Resaltan la importancia de herramientas como la comunicación en tiempo real, el seguimiento del progreso y los recursos educativos en una plataforma en línea para brindar un servicio efectivo.
+- **Mejora de la eficacia laboral**: Todos destacan cómo una aplicación web de coaching podría mejorar
+
 
 ## 2.3. Needfinding
 
