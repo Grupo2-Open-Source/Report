@@ -85,7 +85,7 @@ Se ha reconocido a Noom, Peloton y FitnessPal como los principales competidores 
   </tr>
   <tr>
       <td colspan="2">Precios & Costos</td>
-      <td colspan="1" valign="top"></td>
+      <td colspan="1" valign="top">-Test Plan: S/.0 <br>-Monthy Plan: S/.19.90<br>-Annual Plan: S/.249.9.</td>
       <td colspan="1" valign="top">-Periodo de prueba (7 a 14 dias): $0.50 hasta $18.<br>-Plan mensual de renovación automática: $70 USD por mes.<br>-Plan anual de renovacion automatica:  $17.50 USD por mes.</td>
       <td colspan="1" valign="top">Los precios pueden incluir el costo inicial del equipo (como bicicletas estáticas o cintas de correr) más una tarifa mensual de suscripción que suele rondar los $39 al mes para acceso completo a clases y contenido exclusivo.</td>
       <td colspan="1" valign="top">-Free: $0 (seguimiento de la dieta y el ejercicio)<br>-Premium: $19.99 mensual</td>
