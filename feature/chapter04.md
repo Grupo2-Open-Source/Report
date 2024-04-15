@@ -307,9 +307,88 @@ el tamaño de la pantalla.</td>
 <img src="assets/chapter04/Web Application Mobile-wireframe.png" alt="Web Application Mobile">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**User goal: Creación de cuenta**
+<img src="assets/chapter04/op-wireflow1.png" alt="wireflow1">
+
+**User goal: Establecimiento de objetivos**
+<img src="assets/chapter04/op-wireflow2.png" alt="wireflow1">
+
+**User goal: Acceso a contenido exclusivo**
+<img src="assets/chapter04/op-wireflow3.png" alt="wireflow1">
+
 ### 4.4.3. Web Applications Mock-ups
+
+
+*Crear de cuenta*
+<img src="assets/chapter04/app web-mock ups/Register-mock up.png" alt="Register mock up">
+
+*Iniciar sesión*<br>
+<img src="assets/chapter04/app web-mock ups/Log In-mock up.png" alt="Log in mock up">
+
+*Mi perfil*<br>
+<img src="assets/chapter04/app web-mock ups/Profile-mock up.png" alt="My profile mock up">
+
+*Preferencias del usuario*<br>
+<img src="assets/chapter04/app web-mock ups/User preferences-mock up.png" alt="User Preference mock up">
+
+*Objetivos del usuario*<br>
+<img src="assets/chapter04/app web-mock ups/Goals-mock up.png" alt ="Goals mock up">
+
+*Elegir plan de pago*<br>
+<img src="assets/chapter04/app web-mock ups/Suscriptions-mock up.png" alt="Suscriptions plans mock up">
+
+*Pasarela de pagos*<br>
+<img src="assets/chapter04/app web-mock ups/Payment hall-mock up.png" alt="Payment hall mock up">
+<img src="assets/chapter04/app web-mock ups/Corfirm payment-mock up.png" alt="Confirm payment mock up">
+
+*Escribir testimonios*<br>
+<img src="assets/chapter04/app web-mock ups/Write testimonials-mock up.png" alt="Testimonials mock up">
+
+*Escribir dudas/quejas*<br>
+<img src="assets/chapter04/app web-mock ups/Complaints-mock up.png" alt="Doubt/Complaints mock up">
+
+*Lista de perfiles profesionales*<br>
+<img src="assets/chapter04/app web-mock ups/Professionals profiles list-mock up.png" alt="Professionals profiles list mock up">
+
+*Perfil del profesional*<br>
+<img src="assets/chapter04/app web-mock ups/Professionals profiles-mock up.png" alt="Professional profile wireframe">
+
 ### 4.4.4. Web Applications User Flow Diagrams
+**User goal: Creación de cuenta**
+<td><b>Given</b> que el usuario ha ingresado sus datos de registro correctamente, 
+<br><b>When</b> el usuario hace clic en el botón "Registrarse",
+
+<b>Then</b> la cuenta del usuario se crea exitosamente y se le redirige a la página de inicio.</td>
+<img src="assets/chapter04/user flow1.png" alt="user flow-crear cuenta"><br><br>
+
+**User goal: Inicializacion de sesión**
+<td>Explicación del flujo: El proceso comienza con el usuario accediendo a la aplicación desplegada. Luego, se le presentará un formulario en pantalla donde deberá ingresar su correo electrónico y contraseña para iniciar sesión. Si los datos son válidos, el sistema lo redirigirá al perfil del usuario. En caso contrario, permanecerá en la página de inicio de sesión y se le pedirá que vuelva a ingresar sus credenciales.</td><br><br>
+<img src="assets/chapter04/user flow2.png" alt="user flow-iniciar sesión"><br><br><br>
+
+**User goal: Visualización de perfil**
+<td>Explicación del flujo: En la aplicación, siempre se mostrará una barra de navegación (navbar) en la parte superior. Cuando el usuario haga clic en su nombre, que están ubicados en el extremo derecho de la barra de navegación, podrá acceder a su perfil de usuario y visualizar sus datos.</td><br><br>
+<img src="assets/chapter04/user flow3.png" alt="user flow-ver perfil"><br><br>
+
+**User goal: Establecimineto de objetivos**
+<td><b>Given</b> que el usuario ha iniciado sesión en su cuenta, 
+<br><b>When</b> el usuario selecciona la opción "Establecer objetivos" en su perfil,
+
+<b>Then</b> el usuario puede ingresar sus metas de salud y fitness, incluyendo peso objetivo, porcentaje de grasa corporal, etc.</td>
+<img src="assets/chapter04/user flow4.png" alt="user flow-establecer objetivos"><br><br>
+
+**User goal: Acceso a contenido exclusivo**
+<td><b>Given</b> que el usuario ha adquirido una suscripción premium o acceso exclusivo,
+<br><b>When</b> el usuario accede a la sección de contenido premium,
+
+<b>Then</b> el usuario puede disfrutar de características exclusivas, como videos de entrenamiento, artículos, etc.</td>
+<img src="assets/chapter04/user flow5.png" alt="user-flow acceder a contenido exclusivo"><br><br>
+
 ## 4.5. Web Applications Prototyping
+Nuestro prototipo la web application sería algo así
+<img src="assets/chapter04/prototype.png">
+
+**Enlace para acceder al Figma:** https://www.figma.com/proto/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?page-id=34%3A117&type=design&node-id=129-1152&viewport=482%2C1123%2C1&t=QbRrpXfnFnB8gkan-1&scaling=min-zoom&starting-point-node-id=129%3A1152&mode=design
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 **Nuestro diagrama de contexto muestra las relaciones principales de “”. 
