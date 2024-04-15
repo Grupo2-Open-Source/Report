@@ -9,7 +9,7 @@
 
 ### INTEGRANTES
 
--
+- Cancho Corilla Angel Antonio (U201721995)
 -
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
 -
