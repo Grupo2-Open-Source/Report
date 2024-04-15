@@ -12,7 +12,7 @@
 - Cancho Corilla Angel Antonio (U201721995)
 -
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
--
+- Gamio Upiachihua Brenda Lucía
 ### FECHA: MARZO 2024
 
 - - - 
@@ -25,7 +25,7 @@
 | Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Brenda Gamio | Se realizó:<br> - El style guidelines <br> - Information Architecture <br> - Wireframes y mock ups de la landing page <br> - Wireframes y mock ups de la web application <br> - Web application wireflows y user flowa diagrams <br> - Prototype|
 
 - - -
 # Project Report Collaboration
