@@ -10,9 +10,9 @@
 ### INTEGRANTES
 
 - Cancho Corilla Angel Antonio (U201721995)
--
+- 
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
--
+- Pumahualcca Garcia, Diego Rodrigo (U202219266)
 ### FECHA: MARZO 2024
 
 - - - 
