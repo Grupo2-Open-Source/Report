@@ -98,6 +98,7 @@ Bussiness Assumptions
     * "Si desarrollamos una interfaz de usuario intuitiva y fácil de usar en la plataforma de coaching en línea, lo que permite a los usuarios navegar sin problemas y acceder rápidamente a los recursos y servicios que necesitan, entonces aumentará la participación y la frecuencia de uso, lo que conducirá a una mayor retención de clientes y al crecimiento del negocio."
 - #### 1.2.2.4. Lean UX Canvas
 <img src="assets/chapter01/lean-ux-canvas.png">
+Imagen 1 - Lean UX Canvas
 
 [Link del Lean UX Canvas](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202120344_upc_edu_pe/EVN9E6T-zCBBsT1sGIUwb5EBY4_feB2fwxb4o4My7mAeHg?e=fQg7Ny)
 
