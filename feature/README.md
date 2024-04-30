@@ -10,9 +10,9 @@
 ### INTEGRANTES
 
 - Cancho Corilla Angel Antonio (U201721995)
--
+- Gamio Upiachihua Brenda Lucía (U202120344)
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
-- Gamio Upiachihua Brenda Lucía
+- Pumahualcca Garcia Diego Rodrigo (U202219266)
 ### FECHA: MARZO 2024
 
 - - - 
