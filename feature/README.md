@@ -30,7 +30,7 @@
 - - -
 # Project Report Collaboration
 
-El siguiente enlace a nuestra organización pública: https://github.com/Los-seniors/Informe
+El siguiente enlace es nuestra organización pública: https://github.com/Grupo2-Open-Source/Report
 
 Aquí se encuentra el resultado del Project Report de la entrega correspondiente.
 
