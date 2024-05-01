@@ -11,27 +11,29 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.</td>
 <br><br>
 
-**Misión:** <td>Nustra misión es buscar respeto, colaboración, humildad y empatía en todas nuestras acciones. Escuchamos y actuamos sobre las mejores ideas de nuestros grupos de interés para lograr el mayor impacto. Reconocemos los esfuerzos de todos los involucrados en nuestro trabajo vital y apoyamos sus diversas necesidades.</td>
+**Misión:** <td>Nuestra misión es buscar respeto, colaboración, humildad y empatía en todas nuestras acciones. Escuchamos y actuamos sobre las mejores ideas de nuestros grupos de interés para lograr el mayor impacto. Reconocemos los esfuerzos de todos los involucrados en nuestro trabajo vital y apoyamos sus diversas necesidades.</td>
 
 **Visión:** <td>Nuestra visión es un mundo donde todos tengan la oportunidad de llevar una vida saludable.</td>
 
-**Brand Name:** <td>Como la startup se trata de querer ayudar a la gente ejercitarse y comer sano, conectando al usuario con coaches y nutriólogos. Por esto, hemos decidido usar FlexPal como el nombre del producto, "Flex" de flexionar y "Pal" de amigo.</td>
+**Brand Name:** <td>Como la startup se trata de querer ayudar a la gente a ejercitarse y comer sano, conectando al usuario con coaches y nutriólogos. Por esto, hemos decidido usar FlexPal como el nombre del producto, "Flex" de flexionar y "Pal" de amigo.</td>
 
 <!-- Imagen!-->
 
-**Typography:** <td>El tamaño de las tipografías, elegido por el equipo fueron:</td>
+**Typography:** <td>El tamaño de las tipografías elegido por el equipo fueron:</td>
 <img src="assets/chapter04/Typography-stylesheet.png" alt="Typography">
+Imagen 31 - Typography
 
 **Colors:** <td></td>
 <img src="assets/chapter04/Colors-stylesheet.png" alt="Colors">
+Imagen 32 - Colors
 
 ### 4.1.2. Web Style Guidelines
 <td>Para FlexPal, estamos planeando desarrollar una plataforma web. Por lo tanto, implementaremos un diseño adaptable (conocido como Web Responsive Design) con el objetivo de optimizar la presentación de información en cualquier dispositivo. Esto asegurará que el contenido se mantenga intacto y, en última instancia, mejorará la experiencia del usuario.</td>
 <br><br>
-<td>Como equipo, hemos optado por **incorporar el patrón de diseño en forma de Z en nuestro sitio web. Esta técnica de diseño web es altamente efectiva para **mejorar la experiencia del usuario, ya que guía su atención hacia los elementos clave y potencia la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda, asegurándonos de que sea lo primero que llame la atención del usuario. Justo enfrente, en la esquina superior derecha, ubicamos la barra de navegación, acompañada de un llamado a la acción destacado.</td>
+<td>Como equipo, hemos optado por incorporar el patrón de diseño en forma de Z en nuestro sitio web. Esta técnica de diseño web es altamente efectiva para mejorar la experiencia del usuario, ya que guía su atención hacia los elementos clave y potencia la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda, asegurándonos de que sea lo primero que llame la atención del usuario. Justo enfrente, en la esquina superior derecha, ubicamos la barra de navegación, acompañada de un llamado a la acción destacada.</td>
 
 ## 4.2. Information Architecture
-<td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
+<td>Esta sección se basa principalmente del contenido visual, los estilos, los tags, etc, que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
 
 ### 4.2.1. Organization Systems
 **Menú Principal**
@@ -256,102 +258,165 @@ el tamaño de la pantalla.</td>
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
 <img src="assets/chapter04/LandingaPage-wireframe-desktop.png" alt="Landing Page web wireframe">
+Imagen 33 - Landing Page web Wireframe
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=1%3A2&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
 
 **Landing Page para Mobile Web Browser**
 <img src="assets/chapter04/LandingPage-wireframe-mobile.png" alt="Landing Page mobile wireframe">
+Imagen 34 - Landing Page mobile Wireframe
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=38%3A140&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
+
 ### 4.3.2. Landing Page Mock-up
 **Landing Page para Desktop Web Browser**
 <img src="assets/chapter04/Web Browser-landingPage.png" alt="Landing Page (Mock up) web">
+Imagen 35 - Landing Page web Mock-up
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=40%3A141&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
 
 **Landing Page para Mobile Web Browser**
 <img src="assets/chapter04/Mobile Browser-landingPage.png" alt="Landing Page (Mock up) mobile">
+Imagen 36 - Landing Page mobile Mock-up
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=56%3A288&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
 **Web Application para Desktop Web Browser**
 <br><br>
 <img src="assets/chapter04/Web Application Desktop-wireframe.png" alt="Web Application Deskktop">
+Imagen 37 - Web Application web Wireframe
 
 *Iniciar sesión*<br>
 <img src="assets/chapter04/Log In-wireframe.png" alt="Log in wireframe">
+Imagen 38 - Web Application Log in Wireframe
 
 *Crear cuenta*<br>
 <img src="assets/chapter04/Register-wireframe.png" alt="Register wireframe">
+Imagen 39 - Web Application Register Wireframe
 
 *Mi perfil*<br>
 <img src="assets/chapter04/Profile-wireframe.png" alt="My profile wireframe">
+Imagen 40 - Web Application My profile Wireframe
 
 *Elegir plan de pago*<br>
 <img src="assets/chapter04/Suscriptions-wireframe.png" alt="Suscriptions plans wireframe">
+Imagen 41 - Web Application Suscriptions plan Wireframe
 
 *Pasarela de pagos*<br>
 <img src="assets/chapter04/Payment hall-wireframe.png" alt="Payment hall wireframe">
+Imagen 42 - Web Application Payment Hall Wireframe
+
 <img src="assets/chapter04/Confirm payment-wireframe.png" alt="Confirm payment wireframe">
+Imagen 43 - Web Application Confirm Payment Wireframe
+<br><br>
 
 *Escribir testimonios*<br>
 <img src="assets/chapter04/Write testimonials-wireframe.png" alt="Testimonials wireframe">
+Imagen 44 - Web Application Testimonials Wireframe
 
 *Escribir dudas/quejas*<br>
 <img src="assets/chapter04/Complaints-wireframe.png" alt="Doubt/Complaints wireframe">
+Imagen 45 - Web Application Doubt/Complaints Wireframe
 
 *Preferencias del usuario*<br>
 <img src="assets/chapter04/User preferences-wireframe.png" alt="User Preference wireframe">
+Imagen 46 - Web Application User Preference Wireframe
 
 *Lista de perfiles profesionales*<br>
 <img src="assets/chapter04/Professionals profiles list-wireframe.png" alt="Professionals profiles list wireframe">
+Imagen 47 - Web Application Professionals Profiles List Wireframe
 
 *Perfil del profesional*<br>
 <img src="assets/chapter04/Professionals profiles-wireframe.png" alt="Professional profile wireframe">
+Imagen 48 - Web Application Professionals Profile Wireframe
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=72%3A1409&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
 
 **Web Application para Mobile Web Browser**
 <img src="assets/chapter04/Web Application Mobile-wireframe.png" alt="Web Application Mobile">
+Imagen 49 - Web Application mobile Wireframe
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=62%3A911&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 **User goal: Creación de cuenta**
 <img src="assets/chapter04/op-wireflow1.png" alt="wireflow1">
+Imagen 50 - Wireflow Diagram - User Goal 1: Account creation
 
 **User goal: Establecimiento de objetivos**
 <img src="assets/chapter04/op-wireflow2.png" alt="wireflow1">
+Imagen 51 - Wireflow Diagram - User Goal 2: Setting objects
 
 **User goal: Acceso a contenido exclusivo**
 <img src="assets/chapter04/op-wireflow3.png" alt="wireflow1">
+Imagen 52 - Wireflow Diagram - User Goal 3: Access to exclusive content
 
+[Enlace para acceder al Wireflow](https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?viewport_loc=-5553%2C-4577%2C15457%2C8180%2C8M5xaniXGb-W&invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707)
 ### 4.4.3. Web Applications Mock-ups
 
+*Inicio*
+<img src="assets/chapter04/app web-mock ups/Home-mock up.png" alt="Home mock up">
+Imagen 53 - Web Application Home Mock-up
 
 *Crear de cuenta*
 <img src="assets/chapter04/app web-mock ups/Register-mock up.png" alt="Register mock up">
+Imagen 54 - Web Application Register Mock-up
 
 *Iniciar sesión*<br>
 <img src="assets/chapter04/app web-mock ups/Log In-mock up.png" alt="Log in mock up">
+Imagen 55 - Web Application Log in Mock-up
 
 *Mi perfil*<br>
 <img src="assets/chapter04/app web-mock ups/Profile-mock up.png" alt="My profile mock up">
+Imagen 56 - Web Application Profile Mock-up
 
 *Preferencias del usuario*<br>
 <img src="assets/chapter04/app web-mock ups/User preferences-mock up.png" alt="User Preference mock up">
+Imagen 57 - Web Application User Preference Mock-up
 
 *Objetivos del usuario*<br>
 <img src="assets/chapter04/app web-mock ups/Goals-mock up.png" alt ="Goals mock up">
+Imagen 58 - Web Application User Goals Mock-up
 
 *Elegir plan de pago*<br>
 <img src="assets/chapter04/app web-mock ups/Suscriptions-mock up.png" alt="Suscriptions plans mock up">
+Imagen 59 - Web Application Suscriptions plans Mock-up
 
 *Pasarela de pagos*<br>
 <img src="assets/chapter04/app web-mock ups/Payment hall-mock up.png" alt="Payment hall mock up">
+Imagen 60 - Web Application Payment hall Mock-up
+
 <img src="assets/chapter04/app web-mock ups/Corfirm payment-mock up.png" alt="Confirm payment mock up">
+Imagen 61 - Web Application Confirm payment Mock-up
+<br><br>
 
 *Escribir testimonios*<br>
 <img src="assets/chapter04/app web-mock ups/Write testimonials-mock up.png" alt="Testimonials mock up">
+Imagen 62 - Web Application Testimonials Mock-up
 
 *Escribir dudas/quejas*<br>
 <img src="assets/chapter04/app web-mock ups/Complaints-mock up.png" alt="Doubt/Complaints mock up">
+Imagen 63 - Web Application Doubt/Complaints Mock-up
 
 *Lista de perfiles profesionales*<br>
 <img src="assets/chapter04/app web-mock ups/Professionals profiles list-mock up.png" alt="Professionals profiles list mock up">
+Imagen 64 - Web Application Profiles list Mock-up
 
 *Perfil del profesional*<br>
 <img src="assets/chapter04/app web-mock ups/Professionals profiles-mock up.png" alt="Professional profile wireframe">
+Imagen 65 - Web Application Professional profile Mock-up
+
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=129%3A101&mode=design&t=Mjm0lJYxmxKPpxjm-1)
+<br><br>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 **User goal: Creación de cuenta**
@@ -359,35 +424,47 @@ el tamaño de la pantalla.</td>
 <br><b>When</b> el usuario hace clic en el botón "Registrarse",
 
 <b>Then</b> la cuenta del usuario se crea exitosamente y se le redirige a la página de inicio.</td>
-<img src="assets/chapter04/user flow1.png" alt="user flow-crear cuenta"><br><br>
+<img src="assets/chapter04/user flow1.png" alt="user flow-crear cuenta">
+Imagen 66 - User Flow Diagram - User Goal 1: Account creation
+<br><br>
 
 **User goal: Inicializacion de sesión**
 <td>Explicación del flujo: El proceso comienza con el usuario accediendo a la aplicación desplegada. Luego, se le presentará un formulario en pantalla donde deberá ingresar su correo electrónico y contraseña para iniciar sesión. Si los datos son válidos, el sistema lo redirigirá al perfil del usuario. En caso contrario, permanecerá en la página de inicio de sesión y se le pedirá que vuelva a ingresar sus credenciales.</td><br><br>
-<img src="assets/chapter04/user flow2.png" alt="user flow-iniciar sesión"><br><br><br>
+<img src="assets/chapter04/user flow2.png" alt="user flow-iniciar sesión"><br>
+Imagen 67 - User Flow Diagram - User Goal 2: Log in
+<br><br><br>
 
 **User goal: Visualización de perfil**
 <td>Explicación del flujo: En la aplicación, siempre se mostrará una barra de navegación (navbar) en la parte superior. Cuando el usuario haga clic en su nombre, que están ubicados en el extremo derecho de la barra de navegación, podrá acceder a su perfil de usuario y visualizar sus datos.</td><br><br>
-<img src="assets/chapter04/user flow3.png" alt="user flow-ver perfil"><br><br>
+<img src="assets/chapter04/user flow3.png" alt="user flow-ver perfil">
+Imagen 68 - User Flow Diagram - User Goal 3: Profile display
+<br><br><br>
 
 **User goal: Establecimineto de objetivos**
 <td><b>Given</b> que el usuario ha iniciado sesión en su cuenta, 
 <br><b>When</b> el usuario selecciona la opción "Establecer objetivos" en su perfil,
 
 <b>Then</b> el usuario puede ingresar sus metas de salud y fitness, incluyendo peso objetivo, porcentaje de grasa corporal, etc.</td>
-<img src="assets/chapter04/user flow4.png" alt="user flow-establecer objetivos"><br><br>
+<img src="assets/chapter04/user flow4.png" alt="user flow-establecer objetivos">
+Imagen 69 - User Flow Diagram - User Goal 2: Settings objetives<br><br>
 
 **User goal: Acceso a contenido exclusivo**
 <td><b>Given</b> que el usuario ha adquirido una suscripción premium o acceso exclusivo,
 <br><b>When</b> el usuario accede a la sección de contenido premium,
 
 <b>Then</b> el usuario puede disfrutar de características exclusivas, como videos de entrenamiento, artículos, etc.</td>
-<img src="assets/chapter04/user flow5.png" alt="user-flow acceder a contenido exclusivo"><br><br>
+<img src="assets/chapter04/user flow5.png" alt="user-flow acceder a contenido exclusivo">
+Imagen 70 - User Flow Diagram - User Goal 2: Access to exclusive content
+<br>
+
+[Enlace para acceder a los User Flows](https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?viewport_loc=-14424%2C-7724%2C30264%2C15085%2CnN5xv8hT21Jk&invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707)
 
 ## 4.5. Web Applications Prototyping
 Nuestro prototipo la web application sería algo así
 <img src="assets/chapter04/prototype.png">
+Imagen 71 - Prototype
 
-**Enlace para acceder al Figma:** https://www.figma.com/proto/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?page-id=34%3A117&type=design&node-id=129-1152&viewport=482%2C1123%2C1&t=QbRrpXfnFnB8gkan-1&scaling=min-zoom&starting-point-node-id=129%3A1152&mode=design
+[Enlace para acceder al Figma](https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=34%3A117&mode=design&t=Mjm0lJYxmxKPpxjm-1)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
@@ -401,6 +478,8 @@ realizar una recopilación y análisis para el Cliente
 
 
 <img src="assets/chapter04/Context Diagram.png" alt="Context Diagram">
+<br>
+Imagen 72 - Context Diagram
 
 ### 4.6.2. Software Architecture Container Diagrams
 **En el diagrama de contenedores, se observan 
@@ -408,6 +487,8 @@ la aplicación web, la landing page y la aplicación móvil.
 Cada una de estas realiza solicitudes a la API de la aplicación.**
 
 <img src="assets/chapter04/Container Diagram.png" alt="Container Diagram">
+<br>
+Imagen 73 - Containter Diagram
 
 ### 4.6.3. Software Architecture Components Diagrams
 **Se muestra los componentes. Se encuentra la seguridad para 
@@ -416,10 +497,14 @@ y la comunicación (Security Service, Client Progress Service,
 Analysis and Monitoring Component y Communication Component)**
 
 <img src="assets/chapter04/Component Diagram.png" alt="Component Diagram">
+<br>
+Imagen 74 - Component Diagram
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <img src="assets/chapter04/Class Diagram.png" alt="Class Diagram">
+<br>
+Imagen 75 - Class Diagram
 
 ### 4.7.2. Class Dictionary
 <table>
@@ -585,3 +670,5 @@ Analysis and Monitoring Component y Communication Component)**
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
 <img src="assets/chapter04/Database Diagram.png" alt="Database Diagram">
+<br>
+Imagen 76 - Database Diagram
