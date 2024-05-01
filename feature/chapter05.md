@@ -106,6 +106,11 @@ En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxit
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+Durante el sprint, cada miembro del equipo de Gimfinity participó de forma activa y constante en la realización de las tareas asignadas, demostrando progreso de manera individual:
+<br><br>
+<img src="assets/chapter05/Team Collaboration.png" alt="Team Collaboration">
+<br>
+Imagen (??) - Team Collaboration
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
