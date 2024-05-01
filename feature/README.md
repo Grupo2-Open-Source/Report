@@ -21,11 +21,11 @@
 
 | Versión               | Fecha    | Autores         | Descripción de Modificación                  |
 |-----------------------|----------|-----------------|----------------------------------------------|
-| Primera entrega (TB1) | -/-/2024 | - Juan Pescorán | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | -               | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Brenda Gamio | Se realizó:<br> - El style guidelines <br> - Information Architecture <br> - Wireframes y mock ups de la landing page <br> - Wireframes y mock ups de la web application <br> - Web application wireflows y user flowa diagrams <br> - Prototype|
+| Primera entrega (TB1) | 14/04/2024 | - Juan Pescorán | Se realizó:<br> - El README <br> - Startup Profile <br> - Solution Profile <br> - Segmentos Objetivos |
+| Primera entrega (TB1) | 14/04/2024 | - Angel Cancho | Se realizó:<br> - Competidores <br> - Diseño de entrevistas <br> - Needfinding <br> - Ubiquitous Language <br> - To-Be Scenario Mapping <br> - User Stoies <br> - Impact Mapping <br> - Product Backlog |
+| Primera entrega (TB1) | 14/04/2024 | - Brenda Gamio | Se realizó:<br> - El style guidelines <br> - Information Architecture <br> - Wireframes y mock ups de la landing page <br> - Wireframes y mock ups de la web application <br> - Web application wireflows y user flowa diagrams <br> - Prototype|
+| Primera entrega (TB1) | 14/04/2024 | - Diego Pumahualcca | Se realizó:<br> - Domain-Driven Software Architecture <br> - Software Object-Oriented Design <br> - Database Design <br> - Software Configuration Management |
+
 
 - - -
 # Project Report Collaboration
