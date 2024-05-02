@@ -105,6 +105,21 @@ En esta entrega, el equipo de desarrolladores pertenecientes a Gymfinity ha comp
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para el despliegue de la Landing Page primero creamos el repositorio
+indicado con ramas necesarias.
+<br><br>
+<img src="assets/chapter05/LandingPage.png" alt="Deploy Landing Page">
+Imagen (??) - Deploy Landing Page
+<br><br>
+Para último, utilizando la herramienta de GitHub Pages completamos
+la información que nos piden como la fuente y rama de donde
+desplegaremos el trabajo, y luego de ellos nos brindará el link de
+nuestro sitio web desplegado.
+<br><br>
+<img src="assets/chapter05/LandingPage2.png" alt="Deploy Landing Page 2">
+Imagen (??) - Deploy Landing Page
+<br>
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 Durante el sprint, cada miembro del equipo de Gimfinity participó de forma activa y constante en la realización de las tareas asignadas, demostrando progreso de manera individual:
 <br><br>
