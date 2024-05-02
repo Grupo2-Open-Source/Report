@@ -481,6 +481,8 @@ realizar una recopilación y análisis para el Cliente
 <br>
 Imagen 72 - Context Diagram
 
+[Enlace para acceder al Context Diagram](https://online.visual-paradigm.com/w/cmsorqxf/diagrams/#diagram:workspace=cmsorqxf&proj=0&id=5&type=C4Model)
+
 ### 4.6.2. Software Architecture Container Diagrams
 **En el diagrama de contenedores, se observan 
 la aplicación web, la landing page y la aplicación móvil. 
@@ -488,7 +490,9 @@ Cada una de estas realiza solicitudes a la API de la aplicación.**
 
 <img src="assets/chapter04/Container Diagram.png" alt="Container Diagram">
 <br>
-Imagen 73 - Containter Diagram
+Imagen 73 - Container Diagram
+
+[Enlace para acceder al Container Diagram](https://online.visual-paradigm.com/w/cmsorqxf/diagrams/#diagram:workspace=cmsorqxf&proj=0&id=1&type=C4Model)
 
 ### 4.6.3. Software Architecture Components Diagrams
 **Se muestra los componentes. Se encuentra la seguridad para 
@@ -499,6 +503,8 @@ Analysis and Monitoring Component y Communication Component)**
 <img src="assets/chapter04/Component Diagram.png" alt="Component Diagram">
 <br>
 Imagen 74 - Component Diagram
+
+[Enlace para acceder al Component Diagram](https://online.visual-paradigm.com/w/cmsorqxf/diagrams/#diagram:workspace=cmsorqxf&proj=0&id=2&type=C4Model)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
