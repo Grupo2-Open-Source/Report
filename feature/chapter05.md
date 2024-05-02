@@ -84,6 +84,69 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 </table>
 
 ### 5.2.1.2. Sprint Backlog 1.
+<table>
+    <tbody>
+        <tr>
+			<td colspan="2">Sprint #</td>
+            <td colspan="6"> Sprint 1  </td>
+		</tr>
+        <tr>
+			<td colspan="2">User Story</td>
+            <td colspan="6"> Work-Item / Task  </td>
+		</tr>
+        <tr>
+			<td colspan="1"> Id </td>
+            <td colspan="1"> Title </td>
+			<td colspan="1"> Id </td>
+            <td colspan="1"> Title </td>
+			<td colspan="1"> Description </td>
+            <td colspan="1"> Estimation (hours) </td>
+			<td colspan="1"> Assigned to </td>
+            <td colspan="1"> Status (To-do / InProcess / ToReview / Done) </td>
+		</tr>
+        <tr>
+			<td colspan="1"> US01 </td>
+            <td colspan="1"> Como usuario quiero informarme en qué consiste la plataforma </td>
+			<td colspan="1"> 01 </td>
+            <td colspan="1"> Añadir sección “About Us” </td>
+			<td colspan="1"> Datos fundamentales sobre la aplicación </td>
+            <td colspan="1"> 1 </td>
+			<td colspan="1"> Assigned to </td>
+            <td colspan="1"> Status (To-do / InProcess / ToReview / Done) </td>
+		</tr>
+        <tr>
+			<td colspan="1"> US02 </td>
+            <td colspan="1"> Como usuario interesado, deseo poder explorar las opciones de membresía </td>
+			<td colspan="1"> 02 </td>
+            <td colspan="1"> Añadir seccion "Subscriptions" </td>
+			<td colspan="1"> Detalles acerca de las diversas opciones de suscripción disponibles en la aplicación </td>
+            <td colspan="1"> 1 </td>
+			<td colspan="1"> Assigned to </td>
+            <td colspan="1"> Status (To-do / InProcess / ToReview / Done) </td>
+		</tr>
+        <tr>
+			<td colspan="1"> US03 </td>
+            <td colspan="1"> Como usuario nuevo quiero ver testimonios de éxito de otros usuarios </td>
+			<td colspan="1"> 03 </td>
+            <td colspan="1"> Añadir la sección "Testimonials" </td>
+			<td colspan="1"> Testimonios de clientes satisfechos </td>
+            <td colspan="1"> 1 </td>
+			<td colspan="1"> Assigned to </td>
+            <td colspan="1"> Status (To-do / InProcess / ToReview / Done) </td>
+		</tr>
+         <tr>
+			<td colspan="1"> US04 </td>
+            <td colspan="1"> Como usuario quiero hacer preguntas y contactarme </td>
+			<td colspan="1"> 04 </td>
+            <td colspan="1"> Añadir la sección "Contact Us" </td>
+			<td colspan="1"> Para que el usuario pueda realizar preguntas, comentarios o sugerencias </td>
+            <td colspan="1"> 2 </td>
+			<td colspan="1"> Assigned to </td>
+            <td colspan="1"> Status (To-do / InProcess / ToReview / Done) </td>
+		</tr>
+    </tbody>
+</table>
+
 ### 5.2.1.3. Development Evidence for Sprint Review.
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
