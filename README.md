@@ -1,5 +1,5 @@
 ﻿# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](../assets/UPC_logo.png)
+![UPC](assets/readme/UPC_logo_transparente.png)
 # APLICACIONES OPEN SOURCE (SV54)
 ## PROFESOR: Hugo Allan Mori Paiva
 ## "INFORME DE TRABAJO FINAL APLICACIONES OPEN SOURCE"
@@ -30,12 +30,20 @@
 - - -
 # Project Report Collaboration
 
-El siguiente enlace es nuestra organización pública: https://github.com/Grupo2-Open-Source/Report
+El siguiente enlace es nuestra organización pública: https://github.com/Grupo2-Open-Source
 
 Aquí se encuentra el resultado del Project Report de la entrega correspondiente.
 
-A continuación, se explicará todo a cerca del desarrollo de activades para la
-elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github.
+A continuación, se explicará todo a cerca del desarrollo de actividades para la
+elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github:
+
+## TP1:
+
+![t1p-contri-1](assets/readme/reportattributions.png)
+
+![t1p-contri-2](assets/readme/FrontEndAppcontributtions.png)
+
+![t1p-contri-3](assets/readme/contri-landingpage.png)
 - - -
 # Contenido
 ## Tabla de contenidos

@@ -298,47 +298,47 @@ En la segunda tabla se ve el commit que realizó el cambio de lenguaje en la Lan
 
 Primero, se mostrarán los commits más importantes para el arreglo según las observaciones hechas al reporte:
 
-| Repository          | Branch  | Commit ID                                | Commit Message                                                                         | Commit Message Body        | Commited on (Date) |
-|---------------------|---------|------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|--------------------|
-| JuanPescoran/Report | main    | 5e72d8ec75120d189f891a115797b3ad572d3a9d | feat!: added content in README (v1)                                                    | -                          | 4/28/2024          |
-| JDu202012207/Report | develop | 219b131d79d8a800f0c5175b9c05b69ff87646cc | Merge: merging chapter02 features.                                                     | -                          | 4/29/2024          |
-| JDu202012207/Report | develop | 271962ab497af6c8fd38596dc9dd6a576c6d6501 | Merge branch 'feat-chapter03' of https://github.com/los-seniors-v2/Report into develop | -                          | 4/29/2024          |
-| JDu202012207/Report | develop | 7bca55d1ecdb7cb94597e8680a455c5b12b7138d | Merge: merging chapter04 features.                                                     | -                          | 4/29/2024          |
-| JDu202012207/Report | develop | 5c076afbe3f51057e7ef3a7631c50fe109ed895c | Merge branch 'feat-chapter05' of https://github.com/los-seniors-v2/Report into develop | -                          | 4/29/2024          |
-
-Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
-
-| Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
-|------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
-| s4ck1to99/LandingPageFlexPal | master | 51d1e22858cd8356c12bc86d530eda3935e6b3e5 | refactor       | Language spanish to english index.html | 25/9/2024          |
-
-Por último, se mostrarán los commits más importantes para la implementación de la Front End Application:
-
-| Repository               | Branch  | Commit ID                                | Commit Message                                                                                              | Commit Message Body | Commited on (Date) |
-|--------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
-| JDu202012207/FrontEndApp | develop | b42abd3bba01d16451479486cdf2f645a04ee0b8 | Merge branch 'develop-feat-calendar' of https://github.com/los-seniors-v2/FrontEndApp into develop-features | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | 0c71952838b8b24354a85f080a5e5d5c61296f6f | Merge(coach-book-a-session): merging develop-features.                                                      | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | b60a6a683a57fd1846c92a34dc178398222c197d | feat(coach-register): merging develop-features.                                                             | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | a462141f1691d2088990c2f1368e90fe2aeb6d92 | feat(food-items): merging develop-features.                                                                 | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | d7e07b9e25701116aadadf8aa1d5899d27fb60e2 | feat(membership): merging develop-features.                                                                 | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | ebd6d62b629882a357f5b253c07b6d34439ee16a | feat(routines): merging develop-features.                                                                   | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | 7ef52c3ca1034b0d81cc3bf170dc0b325b314408 | fix: fixed merging develop-features.                                                                        | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | e78c9c50638df5b9078dc3b50d0762c06bea697d | Merge branch 'develop-feat-session' of https://github.com/los-seniors-v2/FrontEndApp into develop-features  | -                   | 4/29/2024          |
-| JDu202012207/FrontEndApp | develop | 4d6b89ce8efb40d60e614c3b133f65f06eb5859c | fix: fixed merging develop-features.                                                                        | -                   | 4/29/2024          |
+| Repository              | Branch  | Commit ID                                | Commit Message                                                                         | Commit Message Body        | Commited on (Date) |
+|-------------------------|---------|------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|--------------------|
+| JuanPescoran/Report     | main    | 5e72d8ec75120d189f891a115797b3ad572d3a9d | feat!: added content in README (v1)                                                    | -                          | 4/28/2024          |
+| DiegoPumahualcca/Report | main    | b0b91c233673e221b32ab8c2e1f52f66f26b834e | feat: added Bibliografia and Anexos                                                 | -                          | 4/28/2024          |
+| BGamio/Report           | main    | c9e861e800e338ffa641e7be366a1e990f9ce288 | chore: updated author's information and student outcomes                                            | -                          | 4/28/2024          |
+| DiegoPumahualcca/Report | develop | e167eb7094d3c5186fa84ed4af77455aa07c13a4 | fix: chapter05                                               | -                          | 4/28/2024          |
 
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
-<!--Repositorio/rama/Commit id/ commit message/ commit on day-->
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 ### 5.2.2.5. Execution Evidence for Sprint Review
-<!--SS del front end-->
+Para la Front End:
+
+https://master--flex-pal-frontendapp.netlify.app
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_4.png](img_4.png)
+
+![img_3.png](img_3.png)
+
+![img_5.png](img_5.png)
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
-<!--Algo del json server, no sé-->
+
+En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
+
+| Nombre del Endpoint        | Acciones Implementadas | Sintaxis de Llamada                                                   | Especificación de Parámetros                         | Ejemplo de Llamada                                                                                                                                                                                                                                                                                                             | Explicación del Response                                                                                                                      |
+|----------------------------|------------------------|-----------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| member-api.service.json    | GET                    | (Not used)                                                            | Ya que es un GET, los parámetros que se piden son id | Language spanish to english index.html                                                                                                                                                                                                                                                                                         | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el nombre 'member-api.service.json'.        |
+| coach-api.service.json     | GET                    | ```axios.get("src/app/services/coach-api.service.json")```            | Ya que es un GET, los parámetros que se piden son id | ```fetchCoaches() {```<br>```axios.get("src/app/services/coach-api.service.json")```<br>```.then(response => {```<br>```console.log(response.data);```<br>```this.coaches = response.data.coaches;```<br>```})```<br>```.catch(error => {```<br>```console.error('Error fetching coaches:', error);```<br>```});```<br>```}``` | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el  nombre 'coach-api.service.json'. |
+| routines-api.service.json  | GET                    | ```fetch('src/app/routines/services/routines-api.service.json')```    | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/routines/services/routines-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.routines = data;```<br>```});```                                                                                                                                            | En este caso, se está devolviendo el valor de todos los objetos "routines" alojados en el json con el nombre 'routines-api.service.json'. |
+| food-item-api.service.json | GET                    | ```fetch('/src/app/food-item/services/food-item-api.service.json')``` | Ya que es un GET, los parámetros que se piden son id | ```fetch('/src/app/food-item/services/food-item-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.foodItems = data;```<br>```});```                                                                                                                                        | En este caso, se está devolviendo el valor de todos los objetos "food-item" alojados en el json con el nombre 'food-item-api.service.json'.   |
+
 
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
  - Para lograr el éxito en este proyecto, es esencial abordar el riesgo de errores funcionales mediante pruebas exhaustivas y mejoras continuas. Dada la competencia en el mercado de aplicaciones similares, la estrategia de adquisición de clientes se enfocará en las redes sociales, aprovechando modelos de suscripción y comisiones como posibles fuentes de ingresos adicionales. Esto garantizará una experiencia de usuario óptima y una mayor satisfacción tanto para los usuarios como para los profesionales del coaching.
-
-### Bibliografia
 
 ### Anexos
 
