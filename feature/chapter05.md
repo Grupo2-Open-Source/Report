@@ -162,4 +162,22 @@ Imagen 83 - Team Collaboration
 ### Bibliografia
 
 ### Anexos
+Wireframes: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=0-1&mode=design&t=UOoRWg9f5UHi0jw5-0
+<br>
 
+Prototype: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=34-117&mode=design&t=UOoRWg9f5UHi0jw5-0
+<br>
+
+Mockups: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=9-12&mode=design&t=UOoRWg9f5UHi0jw5-0
+<br>
+
+Style: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=49-11&mode=design&t=UOoRWg9f5UHi0jw5-0
+<br>
+
+Wireflows: https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707&page=0_0#
+<br>
+
+Repositorio Landing Page: https://github.com/Grupo2-Open-Source/Landing-Page
+<br>
+
+Landing Page desplegada: https://grupo2-open-source.github.io/Landing-Page/
