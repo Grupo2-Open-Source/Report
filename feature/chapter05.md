@@ -155,6 +155,16 @@ Durante el sprint, cada miembro del equipo de Gimfinity participó de forma acti
 <br>
 Imagen 83 - Team Collaboration
 
+### 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2
+### 5.2.2.2. Sprint Backlog 2
+### 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+### 5.2.2.5. Execution Evidence for Sprint Review
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
  - Para lograr el éxito en este proyecto, es esencial abordar el riesgo de errores funcionales mediante pruebas exhaustivas y mejoras continuas. Dada la competencia en el mercado de aplicaciones similares, la estrategia de adquisición de clientes se enfocará en las redes sociales, aprovechando modelos de suscripción y comisiones como posibles fuentes de ingresos adicionales. Esto garantizará una experiencia de usuario óptima y una mayor satisfacción tanto para los usuarios como para los profesionales del coaching.
@@ -162,6 +172,7 @@ Imagen 83 - Team Collaboration
 ### Bibliografia
 
 ### Anexos
+
 Wireframes: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=0-1&mode=design&t=UOoRWg9f5UHi0jw5-0
 <br>
 
@@ -181,3 +192,4 @@ Repositorio Landing Page: https://github.com/Grupo2-Open-Source/Landing-Page
 <br>
 
 Landing Page desplegada: https://grupo2-open-source.github.io/Landing-Page/
+

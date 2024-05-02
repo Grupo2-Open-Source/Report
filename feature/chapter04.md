@@ -676,5 +676,6 @@ Imagen 75 - Class Diagram
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
 <img src="assets/chapter04/Database Diagram.png" alt="Database Diagram">
-<br>
 Imagen 76 - Database Diagram
+
+[Enlace para acceder al Vertabelo](https://my.vertabelo.com/doc/pM7c21fm3tWnk1CxtixSdD4CMRheV7rR)
