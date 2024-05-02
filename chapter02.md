@@ -161,31 +161,39 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas
 
-- **Individuos interesados en mejorar su salud y condición física:**  
+- **Individuos interesados en mejorar su salud y condición física:**
 
-**Entrevista #1** 
+**Entrevista #1**
 
-Nombre y apellidos:  <br>
-Edad: <br>
+Nombre y apellidos: Diego Cancho <br>
+Edad: 21 <br>
 
-[URL_de_entrevista#1-1]()
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/EWSf1w7i4JxPq8WlSRjGIncBmWaN7kAUODPBPter0QruxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tAhwcy)
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/Registro_Entrevista_Seg01_Diego.png)
+<br>
+Imagen 2 - Entrevista 1
 
-**Resumen de la entrevista:**
+**Resumen de la entrevista:** <td>El entrevistado nos cuenta sobre cómo ganó su interés de tener una vida más saludable enfocada en ejercicio. Esto es porque se dio cuenta que realizar actividades físicas lo ayuda a relajarse del estrés que frecuenta en su día a día. También que lo que más se le dificultaba antes para poder seguir esta vida fitness, es el no tener un horario fijo que lo presionara a seguir su rutina. Nos comenta que le gustaría poder tener un coach a su lado para que este le pueda guiar en cómo hacer sus ejercicios de manera correcta pero estos coaches no suelen estar en un solo lugar ni se quedan a su lado hasta que él termine su rutina, por lo que le gustaría tener un coach más accesible desde su celular o laptop.</td>
 
 - - -
 **Entrevista #2**
 
-Nombre y apellidos:  <br>
-Edad: <br>
+Nombre y apellidos: Angel Fabian <br>
+Edad: 19 <br>
 
-[URL_de_entrevista#2-1]()
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EXm6qkvLSXpOmnlmbQjtqDEBD06cOCpi1ZF77g4czf08BQ?e=uz0q7j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+![Entrevista_Seg01_Angel](assets/chapter02/Registro_Entrevista_Seg01_Angel.png)
+<br>
+Imagen 3 - Entrevista 2
 
-**Resumen de la entrevista:**
+**Resumen de la entrevista:** <td> El entrevistado nos cuenta sobre qué lo motivó a mejorar su salud y condición física. Esto porque quería mejorar su aspecto físico y no tener que comprar ropa ancha.
+También cuenta qué experiencias y obstáculos tuvo al adoptar este nuevo estilo de vida saludable.
+Finalmente nos cuenta que lo que espera de un coach es que lo incentive dándole metas y apoyo con las rutinas y la alimentación.
+ </td>
 - - -
+
 **Entrevista #3** <br>
 Nombre y apellidos:  <br>
 Edad: <br>
@@ -193,6 +201,8 @@ Edad: <br>
 [URL_de_entrevista#3-1]()
 
 ![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+<br>
+Imagen 4 - Entrevista 3
 
 **Resumen de la entrevista:**
 
@@ -207,6 +217,8 @@ Edad: 22 años <br>
 [URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/Efz8wi4LvnlNiIB_odnblJQBRQBBJHxhK5xwB2Axk4o2oQ?e=jDPaet&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![Entrevista_Seg02_NOMBREDELENTREVISTADO](assets/chapter02/Registro_Entrevista_Seg02_Valerio.png)
+<br>
+Imagen 5 - Entrevista 1
 
 **Resumen de la entrevista:** El entrevistado nos comenta a cerca de su gran interés a cerca de la actividad física cuando niño, por ello estudió y en estos momentos está sacando una certificación de coaching profesional mientras ejerce su carrera a sus 22 años. Para él, la comunicación usuario-coach es de lo más importante, y más si es virtual, pues, Adrián nos indica que hay una gran ventaja a comparación de la virtualidad, ya que feedbacks, consejos y regulaciones que brinda a sus usuarios puede ser más consistente, ya que la disponibilidad es más grande.
 
@@ -217,6 +229,8 @@ Edad: <br>
 [URL_De_Entrevista]()
 
 ![Entrevista_Seg02_NOMBREDELENTREVISTADO](assets/chapter02/...)
+<br>
+Imagen 6 - Entrevista 2
 
 **Resumen de la entrevista:**
 
