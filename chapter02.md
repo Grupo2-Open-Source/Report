@@ -200,7 +200,7 @@ Edad: <br>
 
 [URL_de_entrevista#3-1]()
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](../assets/chapter02/...)
 <br>
 Imagen 4 - Entrevista 3
 
