@@ -165,16 +165,16 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 
 **Entrevista #1** 
 
-Nombre y apellidos:  <br>
-Edad: <br>
+Nombre y apellidos: Diego Cancho <br>
+Edad: 21 <br>
 
-[URL_de_entrevista#1-1]()
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/EWSf1w7i4JxPq8WlSRjGIncBmWaN7kAUODPBPter0QruxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tAhwcy)
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/Registro_Entrevista_Seg01_Diego.png)
 <br>
 Imagen 2 - Entrevista 1
 
-**Resumen de la entrevista:**
+**Resumen de la entrevista:** <td>El entrevistado nos cuenta sobre cómo ganó su interés de tener una vida más saludable enfocada en ejercicio. Esto es porque se dio cuenta que realizar actividades físicas lo ayuda a relajarse del estrés que frecuenta en su día a día. También que lo que más se le dificultaba antes para poder seguir esta vida fitness, es el no tener un horario fijo que lo presionara a seguir su rutina. Nos comenta que le gustaría poder tener un coach a su lado para que este le pueda guiar en cómo hacer sus ejercicios de manera correcta pero estos coaches no suelen estar en un solo lugar ni se quedan a su lado hasta que él termine su rutina, por lo que le gustaría tener un coach más accesible desde su celular o laptop.</td>
 
 - - -
 **Entrevista #2**
