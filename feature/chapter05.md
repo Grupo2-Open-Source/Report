@@ -163,3 +163,6 @@ Imagen 83 - Team Collaboration
 
 ### Anexos
 
+Repositorio Landing Page: https://github.com/Grupo2-Open-Source/Landing-Page
+<br>
+Landing Page desplegada: https://grupo2-open-source.github.io/Landing-Page/
