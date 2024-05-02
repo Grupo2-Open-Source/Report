@@ -126,8 +126,10 @@ Durante el sprint, cada miembro del equipo de Gimfinity participó de forma acti
 <img src="assets/chapter05/Team Collaboration.png" alt="Team Collaboration">
 <br>
 Imagen (??) - Team Collaboration
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
+
+### Conclusiones
+
+### Bibliografia
+
+### Anexos
+
