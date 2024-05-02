@@ -13,7 +13,7 @@ Se muestra cada herramienta utilizada en el proyecto, para que el equipo pueda d
 Operamos con dos ramas principales:
 - Main: La rama principal donde presentamos nuestras publicaciones oficiales.
 - Develop: Nuestra rama de desarrollo, donde probamos e integramos las funcionalidades trabajadas.
-
+<br>Link del repo landing page: https://github.com/Grupo2-Open-Source/Landing-Page 
 ### 5.1.3. Source Code Style Guide & Conventions.
 Para llevar a cabo nuestro proyecto, hemos empleado:
 - Tecnologías: Incorporamos algunas de estas tecnologías en el desarrollo de nuestra aplicación, como HTML5 y CSS.<br><br>
