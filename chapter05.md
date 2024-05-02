@@ -160,6 +160,21 @@ Imagen 83 - Team Collaboration
 - Para lograr el éxito en este proyecto, es esencial abordar el riesgo de errores funcionales mediante pruebas exhaustivas y mejoras continuas. Dada la competencia en el mercado de aplicaciones similares, la estrategia de adquisición de clientes se enfocará en las redes sociales, aprovechando modelos de suscripción y comisiones como posibles fuentes de ingresos adicionales. Esto garantizará una experiencia de usuario óptima y una mayor satisfacción tanto para los usuarios como para los profesionales del coaching.
 
 ### Bibliografia
+- The C4 model for visualising software architecture. (s. f.). https://c4model.com/
+- What is Class Diagram? (s. f.). https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/
+- Du Mortier, G. (2022, 11 octubre). What Is a Database Diagram? Vertabelo Data Modeler. https://vertabelo.com/blog/what-is-database-diagram/
 
 ### Anexos
+Wireframes: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=0-1&mode=design&t=UOoRWg9f5UHi0jw5-0
 
+Prototype: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=34-117&mode=design&t=UOoRWg9f5UHi0jw5-0
+
+Mockups: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=9-12&mode=design&t=UOoRWg9f5UHi0jw5-0
+
+Style: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=49-11&mode=design&t=UOoRWg9f5UHi0jw5-0
+
+Wireflows: https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707&page=0_0#
+
+Repositorio Landing Page: https://github.com/Grupo2-Open-Source/Landing-Page
+
+Landing Page desplegada: https://grupo2-open-source.github.io/Landing-Page/
