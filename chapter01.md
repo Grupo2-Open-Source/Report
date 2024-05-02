@@ -54,6 +54,26 @@ variarán según el nivel de servicio y las características
 incluidas. <br><br>
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
+* **Problem Statement 1: Falta de Orientación Personalizada para la Salud y el Acondicionamiento Físico** <br>
+  <p>Personas interesadas en mejorar su salud y condición física carecen de orientación personalizada para lograr sus objetivos de salud y acondicionamiento físico. Esto dificulta su progreso y puede llevar a decisiones ineficientes o poco saludables. <br>
+
+  **Solution:** Pensamos crear una aplicación web que ofrezca servicios de coaching profesional en ejercicio y alimentación, proporcionando planes personalizados y seguimiento continuo. <br><br>
+
+* **Problem Statement 2: Dificultades para Profesionales del Coaching** <br>
+  <p>Profesionales del coaching en áreas como el ejercicio y la nutrición tienen dificultades para llegar a nuevos clientes y ofrecer servicios efectivos y personalizados. Esto limita su crecimiento y la expansión de su base de clientes. <br>
+  
+  **Solution:** La aplicación web debe facilitar la comunicación directa entre usuarios y coaches, permitiendo reuniones virtuales y acceso a planes alimentarios personalizados. <br><br>
+  
+* **Problem Statement 3: Necesidad de Comunicación Directa y Personalización** <br>
+  <p>Usuarios interesados en mejorar su estilo de vida y profesionales del coaching carecen de una plataforma que les permita comunicarse directamente y acceder a planes personalizados. La falta de comunicación directa y personalización dificulta el logro de sus objetivos de salud y acondicionamiento físico. <br>
+  
+  **Solution:** La aplicación web debe ofrecer reuniones virtuales y chats para organizar planes alimentarios y rutinas personalizados para satisfacer estas necesidades. <br><br>
+
+* **Problem Statement 4: Accesibilidad para la Aplicación Web** <br>
+  <p>Nuestro servicio fue diseñado originalmente para ser un modelo basado en suscripción. Hemos observado que los usuarios dudan en comprometerse con una suscripción mensual sin probar primero el servicio. Esto está generando tasas de conversión bajas y una base de clientes limitada. <br>
+  
+  **Solution:** La aplicación debe ofrecer una prueba gratuita o un período introductorio para nuevos usuarios e implementar un modelo de precios flexible que permita a los usuarios elegir el nivel de servicio que necesitan. <br><br>
+
 - #### 1.2.2.2. Lean UX Assumptions
 Bussiness Assumptions
 * **Pienso que mis clientes necesitan** una guía personalizada y un apoyo constante para alcanzar sus objetivos de salud y condición física.
