@@ -161,9 +161,9 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas
 
-- **Individuos interesados en mejorar su salud y condición física:**
+- **Individuos interesados en mejorar su salud y condición física:**  
 
-**Entrevista #1**
+**Entrevista #1** 
 
 Nombre y apellidos: Diego Cancho <br>
 Edad: 21 <br>
@@ -200,7 +200,7 @@ Edad: <br>
 
 [URL_de_entrevista#3-1]()
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter02/...)
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](../assets/chapter02/...)
 <br>
 Imagen 4 - Entrevista 3
 
@@ -238,20 +238,50 @@ Imagen 6 - Entrevista 2
 ### 2.2.3. Análisis de entrevistas.
 - #### Analisis Primer Segmento:
 ![Pregunta1](assets/chapter02/Resultados_Segmento1_Pregunta1.png)
+<br>
+Imagen 7 - Gráfico Análisis 1
+<br><br>
 ![Pregunta2](assets/chapter02/Resultados_Segmento1_Pregunta2.png)
+<br>
+Imagen 8 - Gráfico Análisis 2
+<br><br>
 ![Pregunta3](assets/chapter02/Resultados_Segmento1_Pregunta3.png)
+<br>
+Imagen 9 - Gráfico Análisis 3
+<br><br>
 ![Pregunta4](assets/chapter02/Resultados_Segmento1_Pregunta4.png)
+<br>
+Imagen 10 - Gráfico Análisis 4
+<br><br>
 ![Pregunta5](assets/chapter02/Resultados_Segmento1_Pregunta5.png)
+<br>
+Imagen 11 - Respuestas Análisis 1
+<br><br>
 ![Pregunta6](assets/chapter02/Resultados_Segmento1_Pregunta6.png)
+<br>
+Imagen 12 - Respuestas Análisis 2
+
 Este análisis sugiere que ambos entrevistados comparten similitudes en términos de motivación, desafíos enfrentados y expectativas del servicio de coaching en línea. Identificar estas características comunes nos permitirá ayudar a orientar el diseño y desarrollo de la aplicación web para satisfacer las necesidades y expectativas de este grupo objetivo.
 
 - #### Analisis Segundo Segmento:
 ![Pregunta1](assets/chapter02/Resultados_Segmento2_Pregunta1.png)
+Imagen 13 - Respuestas Análisis 3
+<br><br>
 ![Pregunta2](assets/chapter02/Resultados_Segmento2_Pregunta2.png)
+Imagen 14 - Gráfico Análisis 5
+<br><br>
 ![Pregunta3](assets/chapter02/Resultados_Segmento2_Pregunta3.png)
+Imagen 15 - Respuestas Análisis 4
+<br><br>
 ![Pregunta4](assets/chapter02/Resultados_Segmento2_Pregunta4.png)
+Imagen 16 - Gráfico Análisis 6
+<br><br>
 ![Pregunta5](assets/chapter02/Resultados_Segmento2_Pregunta5.png)
+Imagen 17 - Gráfico Análisis 7
+<br><br>
 ![Pregunta6](assets/chapter02/Resultados_Segmento2_Pregunta6.png)
+Imagen 18 - Respuestas Análisis 5
+
 Características comunes:
 
 - **Motivación y pasión**: Todos los entrevistados muestran una fuerte motivación y pasión por el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a mejorar su salud y bienestar.
@@ -268,14 +298,20 @@ Características comunes:
 <p style="text-align: center;"><strong>Segmento objetivo: Usuario</strong></p>
 
 ![usuario](assets/chapter02/segmentoUsuario.png)
+Imagen 19 - User Persona 1
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Entrenador</strong></p>
 
 ![entrenador](assets/chapter02/segmentoEntrenador.png)
+Imagen 20 - User Persona 2
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Nutricionista</strong></p>
 
 ![nutricionista](assets/chapter02/segmentoNutricionista.png)
+Imagen 21 - User Persona 3
+<br><br>
 
 ### 2.3.2. User Task Matrix
 
@@ -482,42 +518,61 @@ Características comunes:
 <p style="text-align: center;"><strong>Segmento objetivo: Usuario</strong></p>
 
 ![journey](assets/chapter02/journeyMappingUsuario.png)
+Imagen 22 - User Journey Mapping 1
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Entrenador</strong></p>
 
 ![journey](assets/chapter02/journeyMappingEntrenador.png)
+Imagen 23 - User Journey Mapping 2
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo:: Nutricionista</strong></p>
 
 ![journey](assets/chapter02/journeyMappingNutricionista.png)
+Imagen 24 - User Journey Mapping 3
+<br><br>
 
 ### 2.3.4. Empathy Mapping
 
 <p style="text-align: center;"><strong>Segmento objetivo: Usuario</strong></p>
 
 ![empathy](assets/chapter02/empathyMapUsuario.png)
+Imagen 25 - Empathy Mapping 1
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Entrenador</strong></p>
 
 ![empathy](assets/chapter02/empathyMapEntrenador.png)
+Imagen 26 - Empathy Mapping 2
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Nutricionista </strong></p>
 
 ![empathy](assets/chapter02/empathyMapNutricionista.png)
+Imagen 27 - Empathy Mapping 3
+<br><br>
 
 ### 2.3.5. As-is Scenario Mapping
 
+<br>
 <p style="text-align: center;"><strong>Segmento objetivo: Usuario</strong></p>
 
 ![as-is](assets/chapter02/scenarioMappingUsuario.png)
+Imagen 28 - As-is Scenario Mapping 1
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Entrenador</strong></p>
 
 ![as-is](assets/chapter02/scenarioMappingEntrenador.png)
+Imagen 29 - As-is Scenario Mapping 2
+<br><br>
 
 <p style="text-align: center;"><strong>Segmento objetivo: Nutricionista </strong></p>
 
 ![as-is](assets/chapter02/scenarioMappingNutricionista.png)
+Imagen 30 - As-is Scenario Mapping 3
+<br><br>
 
 ## 2.4. Ubiquitous Language
 

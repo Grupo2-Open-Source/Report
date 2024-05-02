@@ -13,7 +13,7 @@
 
 ### 1.1.2. Descripción de la Startup
 
-<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
+<p>Somos una compañía recién creada llamada "Gymfinity" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
 <br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.
 
 
@@ -53,6 +53,7 @@ ofrecidos por la plataforma. Los precios de las suscripciones
 variarán según el nivel de servicio y las características
 incluidas. <br><br>
 ### 1.2.2 Lean UX Process
+
 - #### 1.2.2.1. Lean UX Problem Statements
 * **Problem Statement 1: Falta de Orientación Personalizada para la Salud y el Acondicionamiento Físico** <br>
   <p>Personas interesadas en mejorar su salud y condición física carecen de orientación personalizada para lograr sus objetivos de salud y acondicionamiento físico. Esto dificulta su progreso y puede llevar a decisiones ineficientes o poco saludables. <br>
@@ -96,6 +97,10 @@ Bussiness Assumptions
     * "Si garantizamos la seguridad y confidencialidad de los datos personales y de salud de los usuarios, y proporcionamos una experiencia de usuario transparente y confiable, entonces aumentará la confianza y la lealtad de los usuarios hacia la plataforma, lo que resultará en una mayor retención y una reputación positiva en el mercado."
     * "Si desarrollamos una interfaz de usuario intuitiva y fácil de usar en la plataforma de coaching en línea, lo que permite a los usuarios navegar sin problemas y acceder rápidamente a los recursos y servicios que necesitan, entonces aumentará la participación y la frecuencia de uso, lo que conducirá a una mayor retención de clientes y al crecimiento del negocio."
 - #### 1.2.2.4. Lean UX Canvas
+<img src="assets/chapter01/lean-ux-canvas.png">
+Imagen 1 - Lean UX Canvas
+
+[Link del Lean UX Canvas](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202120344_upc_edu_pe/EVN9E6T-zCBBsT1sGIUwb5EBY4_feB2fwxb4o4My7mAeHg?e=fQg7Ny)
 
 ## 1.3. Segmentos objetivo.
 Los segmentos objetivos identificados se definirán en la siguiente tabla:
