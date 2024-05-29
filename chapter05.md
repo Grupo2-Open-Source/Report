@@ -189,16 +189,16 @@ Imagen 83 - Team Collaboration
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 2 Goal </td>
+			<td colspan="1">Sprint 1 Goal </td>
             <td colspan="1">Realizar el front end de la web application de manera que sea atractiva y funcional</td>
 		</tr>
         <tr>
-			<td colspan="1">Sprint 2 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 11 User Stories que tienen 2,3 y 5 Story points cada uno: 2 User Stories con el valor de 2 Story Points, 7 USer Stories con el valor de 3 Story Points y 2 User Stories con el valor de 5 Story Points.</td>
+			<td colspan="1">Sprint 1 Velocity </td>
+            <td colspan="1">Se calcula mediante con el tiempo y story points?</td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">35</td>
+            <td colspan="1">Se suma</td>
 		</tr>
 </tbody>
 </table>
@@ -300,10 +300,10 @@ Primero, se mostrarán los commits más importantes para el arreglo según las o
 
 | Repository              | Branch  | Commit ID                                | Commit Message                                                                         | Commit Message Body        | Commited on (Date) |
 |-------------------------|---------|------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|--------------------|
-| JuanPescoran/frontend     | main    | c9b19f756ce734791d5a341368552ce48f1706e1 | fix: fixed problem that doesn't show data in the deployment                                       | -                          | 4/28/2024          |
-| JuanPescoran/frontend | main    | 1f5ab0283608822b16a25aca09bc8b3aca2cad50 | merge: all feats in develop now on master| -                          | 4/28/2024          |
-| notfakeangel/frontend | main    | 83849a0f7c7baa955eceb8d7280606cff3903a29 |feat: added new api for nutritionist | -                          | 4/28/2024          |
-
+| JuanPescoran/Report     | main    | 5e72d8ec75120d189f891a115797b3ad572d3a9d | feat!: added content in README (v1)                                                    | -                          | 4/28/2024          |
+| DiegoPumahualcca/Report | main    | b0b91c233673e221b32ab8c2e1f52f66f26b834e | feat: added Bibliografia and Anexos                                                 | -                          | 4/28/2024          |
+| BGamio/Report           | main    | c9e861e800e338ffa641e7be366a1e990f9ce288 | chore: updated author's information and student outcomes                                            | -                          | 4/28/2024          |
+| DiegoPumahualcca/Report | develop | e167eb7094d3c5186fa84ed4af77455aa07c13a4 | fix: chapter05                                               | -                          | 4/28/2024          |
 
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
@@ -321,9 +321,10 @@ https://master--flex-pal-frontendapp.netlify.app
 
 ![img_4.png](assets/chapter05/img_4.png)
 
-![img_3.png](assets/chapter05/img_3.png)
+![img_3](assets/chapter05/img_3.png)
 
-![img_5.png](assets/chapter05/img_5.png)
+![img_5](assets/chapter05/img_5.png)
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
@@ -354,7 +355,7 @@ Mockups: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&n
 Style: https://www.figma.com/file/Pd1z1lfG0NMz9fbfCVBHdC/FlexPal?type=design&node-id=49-11&mode=design&t=UOoRWg9f5UHi0jw5-0
 <br>
 
-Wireflows: https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707&page=0_0#
+Wire flows: https://lucid.app/lucidchart/06e5a9b6-2a6f-4ca7-ac20-4729765c13d4/edit?invitationId=inv_65cf465b-fcaf-444a-b6bf-edd39644b707&page=0_0#
 <br>
 
 Repositorio Landing Page: https://github.com/Grupo2-Open-Source/Landing-Page
