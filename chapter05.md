@@ -336,6 +336,238 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 | routines-api.service.json  | GET                    | ```fetch('src/app/routines/services/routines-api.service.json')```    | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/routines/services/routines-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.routines = data;```<br>```});```                                                                                                                                            | En este caso, se está devolviendo el valor de todos los objetos "routines" alojados en el json con el nombre 'routines-api.service.json'. |
 | food-item-api.service.json | GET                    | ```fetch('/src/app/food-item/services/food-item-api.service.json')``` | Ya que es un GET, los parámetros que se piden son id | ```fetch('/src/app/food-item/services/food-item-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.foodItems = data;```<br>```});```                                                                                                                                        | En este caso, se está devolviendo el valor de todos los objetos "food-item" alojados en el json con el nombre 'food-item-api.service.json'.   |
 
+### 5.2.3. Sprint 3
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 3. Incluye como secciones internas: Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, junto con Team Collaboration Insights during Sprint
+
+#### 5.2.3.1.Sprint Planning 2.
+
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 3 </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> 2024-06-01 </td>
+		</tr>
+        <tr>
+			<td colspan="1">Time</td>
+            <td colspan="1"> 10:00 PM </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">Discord (Reunion virtual)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1">Pescoran Angulo, Juan Fabritzzio</td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1">- Juan Pescorán<br>
+							- Angel Cancho<br>
+							- Diego Pumahualcca<br>
+							- Brenda Gamio<br> </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 2 – 1 Review Summary </td>
+            <td colspan="1">Se alcanzaron los objetivos: Funcionamiento y despliegue de nuestra Web API, </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+            <td colspan="1">Comparado a otros sprints, este es el más trabajoso comparado a los demás, pues se necesitaba la parte de Backend, teniendo terminado el report, el Front End, y la landing page.</td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 3 Goal</td>
+            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Mejoramiento de la Front End, añadiendo la implementación de los mockups pertenecientes al reporte y el cumplimiento total dela creación del backend.</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 3 Velocity </td>
+            <td colspan="1">Para este sprint se han elegido 9 User Stories que tienen 5 Story points 8 de ellas y una de 3 Story points.</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1">43</td>
+		</tr>
+</tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
+[Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-2)
+
+![trello-screenshot](assets/img/img.png)
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>EP10/US01</td>
+			<td>Acceder a EndPoints</td>
+			<td>Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>EP10/US02</td>
+			<td>Registrar Subscripciones</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar las subscripciones que tienen los usuarios.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US04</td>
+			<td>Registrar Usuarios</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar a los Usuarios.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US05</td>
+			<td>Registrar Rutinas</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar las rutinas.</td>
+			<td>2</td>
+			<td>Juan Pescorán</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US07</td>
+			<td>Creación de persistencia de la entidad Subscription</td>
+			<td>Como developer, quiero realizar la persistencia de la información para la entidad Subscription.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US08</td>
+			<td>Creación de persistencia de la entidad Usuarios</td>
+			<td>Como developer, quiero implementar la persistencia de la información de la entidad User para asegurar que los datos de los usuarios se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US09</td>
+			<td> Creación de persistencia de la entidad Rutina</td>
+			<td>Como developer quiero hacer persistir la información de la entidad Rutina para tener registrado.</td>
+			<td>2</td>
+			<td>Juan Pescorán</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US11</td>
+			<td>Creación de resource de la entidad Subscription</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Subscription para realizar consultas.	</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US12</td>
+			<td>Creación de resource de la entidad Usuarios</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad User para realizar consultas.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US13</td>
+			<td>Creación de resource de la entidad Rutina</td>
+			<td>CoCreación de resource de la entidad Rutina | Como developer quiero devolver un resource de la información de la entidad Rutina para realizar consultas.</td>
+			<td>2</td>
+			<td>Juan Pescorán</td>
+			<td>Done</td>
+		</tr>        
+    <tbody>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+Se mostrarán los commits más importantes para la implementación de la API Platform Application:
+
+| Repository                      | Branch        | Commit ID                                | Commit Message                                                             | Commit Message Body | Commited on (Date) |
+|---------------------------------|---------------|------------------------------------------|----------------------------------------------------------------------------|---------------------|--------------------|
+| JuanPescoran/FlexxPalPlatform.API | master          | 1912ee5ae41b9545859d10d38e3808ea69fafbed | chore: Initial Commit                                                     | -                   | 5/29/2024          |
+| notfakeangel/FlexxPalPlatform.API | profiles       | 1acd21123aa9fc2bc46a1f5cad80e4d89d663fc7 | feat: added Profile aggregate with embedded value objects      | -                   | 5/31/2024           |
+| JuanPescoran/FlexxPalPlatform.API       | routines    | af95ef607643bd25cb453b7dfa1f5a3b57ec46c5 | feat(counseling): added member class in the domain layer   | -                   | 6/5/2024           |
+| BGamio/FlexxPalPlatform.API | subscriptions           | 7a73a0e455d18ce44ead51802b1facfb00377bd7 | feat: Added subscription bounded context | -                   | 6/5/2024           |
+
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Se ha omitido esta sección, puesto que aún no se dispone con el conocimiento para realizar pruebas de tests automatizados, que están planeadas en realizarse en el siguiente sprint.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación de la página del Back end Application. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+
+![Web-API-screenshot1](assets/img/img_1.png)
+![Web-API-screenshot1](assets/img/img_2.png)
+![Web-API-screenshot1](assets/img/img_3.png)
+![Web-API-screenshot1](assets/img/img_4.png)
+![Web-API-screenshot1](assets/img/img_5.png)
+![Web-API-screenshot1](assets/img/img_6.png)
+
+Por parte de la base de datos:
+
+![Database](assets/img/img_7.png)
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
+
+| Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
+|---------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Coach               | POST, GET              | POST: ```/api/v1/coaches``` GET: ```/api/v1/coaches, /api/v1/coaches/{coachId} ```                                                                                                                                          | GET: ```"id": int```, POST: ```"speciality": "string", "lengthOfService": "int", "firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                                                                                                      | -                  | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el nombre 'api/v1/coach'.              |
+| CustomizedPlan         | POST, GET              | POST: ```/api/v1/customized-plans```, ```/api/v1/customized-plans{customizedPlanId}/routine-items```, ```/api/v1/customized-plans{customizedPlanId}/nutritional-meals```  GET: ```/api/v1/customized-plans, /api/v1/customized-plans/{customizedPlanId}``` | GET: ```"id": int```, POST: ```"objective": "string", "levelOfExperience": "string"```, ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                                                    | -                  | En este caso, se está devolviendo el valor de todos los objetos "customized-plan" alojados en el json con el  nombre 'api/v1/customized-plan'. |
+| Profiles            | POST, GET         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
+| Subscriptions               | POST, GET              | POST: ```/api/v1/subscription```, GET: ```/api/v1/subscriptions```               | GET: ```"id": int```, POST: ```"pirce": "float", "services": "string"```            | -                  | En este caso, se está devolviendo el valor de todos los objetos "subscription" alojados en el json con el nombre 'api/v1/subscription'.                 |
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestra Front End App, se usó: 
+
+![Netlify](assets/img/img_9.png)
+![Netlify2](assets/img/img_10.png)
+
+Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.net/)
+
+![SmarterASP](assets/img/img_8.png)
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
+![analytics-5-report](assets/img/img_11.png)
+## Avance de Conclusiones, Bibliografía y Anexos.
+### Conclusiones
+- Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
+- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
+- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
+- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
+- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
+- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
 
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.

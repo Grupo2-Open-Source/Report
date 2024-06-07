@@ -101,15 +101,15 @@ Para el buen gestión de nuestro proyecto, se realizo el Product Backlog para el
 | 18    | EP08/US03     | Realizar encuestas de satisfacción del cliente | Como usuario, quiero realizar encuestas periódicas para que puedan recopilar mis comentarios, opiniones y sugerencias sobre mi experiencia en la aplicación. | 3 |
 | 19    | EP09/US01     | Desarrollar plataforma de ayuda y consultas en línea | Como equipo de desarrollo, queremos desarrollar una plataforma en línea donde los clientes puedan acceder a recursos de ayuda, preguntas frecuentes y enviar consultas que serán respondidas dentro de un plazo por un especialista en nutrición. | 8 |
 | 20	| EP10/US01	    | Acceso a EndPoints | Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.	| 3 |
-| 21	| EP10/US02     | Registrar Pago | Como developer, quiero contar con un endpoint para poder registrar los pagos realizados de los eventos.	| 5 |
+| 21	| EP10/US02     | Registrar Subscripciones | Como developer, quiero contar con un endpoint para poder registrar las subscripciones que tienen los usuarios.	| 5 |
 | 22	| EP10/US03	    | Registrar Coaches | Como developer, quiero contar con un endpoint para poder registrar a los Coaches. | 5 |
 | 23	| EP10/US04	    | Registrar Usuarios | Como developer, quiero contar con un endpoint para poder registrar a los Usuarios. | 5 |
-| 24	| EP10/US05     | Registrar Reunion Virtual	| Como developer, quiero contar con un endpoint para poder registrar los eventos. | 5 |
+| 24	| EP10/US05     | Registrar Rutinas	| Como developer, quiero contar con un endpoint para poder registrar las rutinas. | 5 |
 | 25	| EP10/US06	    | Creación de persistencia de la entidad Coaches | Como developer, quiero realizar la persistencia de la información para la entidad Coach. | 5 |
-| 26	| EP10/US07     | Creación de persistencia de la entidad Payment | Como developer, quiero realizar la persistencia de la información para la entidad Payment. | 5 |
+| 26	| EP10/US07     | Creación de persistencia de la entidad Subscription | Como developer, quiero realizar la persistencia de la información para la entidad Subscription. | 5 |
 |27	    | EP10/US08     | Creación de persistencia de la entidad Usuarios | Como developer, quiero implementar la persistencia de la información de la entidad User para asegurar que los datos de los usuarios se almacenen de manera segura y estén disponibles cuando sea necesario. | 5 |
-| 28	| EP10/US09	    | Creación de persistencia de la entidad Reunion Virtual | Como developer quiero hacer persistir la información de la entidad VirtualMeeting para tener registrado. | 5 |
+| 28	| EP10/US09	    | Creación de persistencia de la entidad Rutina | Como developer quiero hacer persistir la información de la entidad Rutina para tener registrado. | 5 |
 | 29	| EP10/US10	    | Creacion de resource de la entidad Coach | Como developer quiero devolver un resource para registrar información de la entidad Coach. | 5 |
-| 30	| EP10/US11     |	Creación de resource de la entidad Payment	| Como developer quiero devolver un resource de la información de la entidad Payment para realizar consultas. | 5 |
+| 30	| EP10/US11     |	Creación de resource de la entidad Subscription	| Como developer quiero devolver un resource de la información de la entidad Subscription para realizar consultas. | 5 |
 | 31	| EP10/US12	    | Creación de resource de la entidad Usuarios | Como developer quiero devolver un resource de la información de la entidad User para realizar consultas. | 5 |
-| 32	| EP10/US13     | Creación de resource de la entidad Reunion Virtual | Como developer quiero devolver un resource de la información de la entidad VirtualMeeting para realizar consultas. | 5 |
+| 32	| EP10/US13     | Creación de resource de la entidad Rutina | Como developer quiero devolver un resource de la información de la entidad Rutina para realizar consultas. | 5 |
