@@ -339,7 +339,7 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 ### 5.2.3. Sprint 3
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 3. Incluye como secciones internas: Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, junto con Team Collaboration Insights during Sprint
 
-#### 5.2.3.1.Sprint Planning 2.
+#### 5.2.3.1. Sprint Planning 3.
 
 <table  style="text-align: center;">
     <tbody>
@@ -374,11 +374,11 @@ En esta sección se registra y explica el avance en términos de producto y trab
 							- Brenda Gamio<br> </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 2 – 1 Review Summary </td>
+			<td colspan="1">Sprint 3 – 1 Review Summary </td>
             <td colspan="1">Se alcanzaron los objetivos: Funcionamiento y despliegue de nuestra Web API, </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+			<td colspan="1">Sprint 3 – 1 Retrospective Summary </td>
             <td colspan="1">Comparado a otros sprints, este es el más trabajoso comparado a los demás, pues se necesitaba la parte de Backend, teniendo terminado el report, el Front End, y la landing page.</td>
 		</tr>
          <tr>
@@ -568,6 +568,170 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 - El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+
+- **Individuos interesados en mejorar su salud y condición física:** 
+  
+- ¿Qué piensas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar?
+- ¿Encuentras que las funciones de la aplicación web son intuitivas y fáciles de usar?
+- ¿Hay alguna función que crees que debería estar en la aplicación web que actualmente no está?
+- ¿Cómo calificarías la experiencia general de uso de la aplicación web?
+- ¿Qué te gusta más y qué te gusta menos de la aplicación web?
+- ¿Te sentirías cómodo usando regularmente nuestra aplicación web?
+- ¿Cómo crees que nuestra aplicación web se comparan con otras similares que hayas utilizado?
+- ¿Hay algo que te confunda o te resulte difícil de entender en la aplicación web?
+- ¿Considerarías recomendarnos a tus amigos o familiares?
+- ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
+
+### 5.3.2 Registro de Entrevistas
+
+**Entrevista 1:**
+
+Nombre y apellidos: <br>
+Edad: <br>
+
+[URL para ir a la entrevista]()
+
+![Entrevista_Seg01_NOMBREDELENTREVISTADO]()
+
+**Resumen de la entrevista:** <td></td>
+
+**Entrevista 2:**
+
+Nombre y apellidos: <br>
+Edad: <br>
+
+[URL para ir a la entrevista]()
+
+![Entrevista_Seg01_NOMBREDELENTREVISTADO]()
+
+**Resumen de la entrevista:** <td></td>
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Tareas a evaluar
+1. Desktop landing page<br>
+1.1. Información y descripción de la aplicación y sus funcionalidades<br>
+1.2.	Header y footer apropiado para la landing page<br>
+1.3.	Interacción del landing page con la aplicación<br>
+
+2.	Web Application<br>
+2.1.	Inicio de sesión de usuario existente<br>
+2.2.	Acciones de retroceso dentro de la aplicación<br>
+2.3.	Opciones de cancelar o salir del registro de metas<br>
+2.4.	Elementos de la interfaz de usuario consistentes<br>
+2.5.	Pestañas de navegación dentro de la aplicación<br>
+2.6.	Botones interactivo y de uso intuitivo<br>
+2.7.	Búsqueda por profesionales<br>
+2.8.	Navegación y orientación dentro de la aplicación<br>
+2.9.	Cambio de idioma de la aplicación<br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1.	Desktop landing page<br>
+1.1.	Redes sociales asociadas al startup<br>
+1.2.	Política de privacidad y condiciones de uso<br>
+2.	Web Application<br>
+2.1.	Registro de usuario nuevo<br>
+2.2.	Acciones de retroceso dentro de la aplicación<br>
+2.4.	Elementos de la interfaz de usuario consistentes<br>
+2.5.	Política de privacidad y condiciones de uso<br>
+
+Escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo para la siguiente entrega. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+
+Landing page <br>
+Tabla resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada |
+|---|----------|---------------------|------------------------------|
+| 1 | La iconografía empleada en el toolbar de la landing page mal espaciado. | 1 | Usability – Estética y diseño minimalista. |
+| 2 | Espaciado inadecuado entre el toolbar y la imagen del fondo. | 1 | Usability – Estética y diseño minimalista. |
+
+PROBLEMA #01: La iconografía empleada en el toolbar de la landing page mal espaciado.<br>
+
+Escala de severidad: 01<br>
+Principio violdado: Usability – Estética y diseño minimalista.<br>
+
+
+<img src="assets/chapter05/icon.png" alt="icon">
+
+Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que el toolbar se agrande para poder encajar bien el ícono y que sea visible para los usuarios de manera clara.<br>
+
+PROBLEMA #02: Espaciado inadecuado entre el toolbar y la imagen del fondo.
+Escala de severidad: 01<br>
+Principio violdado: Usability – Estética y diseño minimalista.<br>
+
+<img src="assets/chapter05/spacing.png" alt="spacing">
+
+Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda no dejar un espacio sin usar en el body después del toolbar, para que no sea visible y frustrar al usuario con espacios en blancos.<br>
+
+
+Web application
+Tabla resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada |
+|---|----------|---------------------|------------------------------|
+| 1 | Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario. | 3 | Usability - Flexibilidad y eficiencia de uso / Usability – Prevenir errores |
+| 2 | Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción. | 3 | Information Arquitecture: Jerarquía de información. |
+| 3 | El formulario de Contacto no muestra funcionalidad. | 4 | Usability - Visibilidad del estado del sistema |
+
+PROBLEMA #01: Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario.
+Escala de severidad: 03<br>
+Principio violdado: <br>
+Usability - Flexibilidad y eficiencia de uso<br>
+Usability - Prevenir errores<br>
+
+Descripción del problema: El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.<br>
+
+<img src="assets/chapter05/account.png" alt="account">
+
+Recomendación:<br>
+Para resolver el problema, se sugiere integrar de manera eficiente y accesible estas características clave en la interfaz. Además, es fundamental implementar salvaguardias de datos y confirmaciones al eliminar cuentas, con el objetivo de prevenir eliminaciones accidentales.<br>
+
+PROBLEMA #02: Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción.<br>
+
+Escala de severidad: 03<br>
+Principio violado: Information Arquitecture <br>
+Descripción del problema: El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el aplicativo. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.<br>
+
+<img src="assets/chapter05/subscription.png" alt="subscription">
+
+Recomendación:<br>
+•	Estructurar la información sobre los planes de suscripción de manera lógica y organizada. <br>
+•	Utilizar una jerarquía clara para destacar las funcionalidades de cada plan <br>
+•	Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva. <br>
+•	Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.<br><br>
+
+PROBLEMA #03: El formulario de Contacto no muestra funcionalidad.
+Escala de severidad: 04<br>
+Principio violado: Usability- Visibilidad del estado del sistema <br>
+Descripción del problema: El problema identificado consiste en que el formulario de contacto en el aplicativo web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes los profesionales que quieren contactar. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.<br>
+
+<img src="assets/chapter05/contact.png" alt="contact">
+<img src="assets/chapter05/form.png" alt="form">
+
+Recomendación:<br>
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.<br>
+
+## 5.4. Video About-the-Product
 
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
