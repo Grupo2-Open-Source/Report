@@ -402,9 +402,9 @@ En esta sección se registra y explica el avance en términos de producto y trab
 #### 5.2.3.2. Sprint Backlog 3.
 
 En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
-[Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-2)
+[Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-3)
 
-![trello-screenshot](assets/img/img.png)
+![trello-screenshot](assets/chapter05/sprint3.png)
 
 <table>
 	<tbody>
@@ -521,19 +521,17 @@ Se mostrarán los commits más importantes para la implementación de la API Pla
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 Se ha omitido esta sección, puesto que aún no se dispone con el conocimiento para realizar pruebas de tests automatizados, que están planeadas en realizarse en el siguiente sprint.
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación de la página del Back end Application. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
-![Web-API-screenshot1](assets/img/img_1.png)
-![Web-API-screenshot1](assets/img/img_2.png)
-![Web-API-screenshot1](assets/img/img_3.png)
-![Web-API-screenshot1](assets/img/img_4.png)
-![Web-API-screenshot1](assets/img/img_5.png)
-![Web-API-screenshot1](assets/img/img_6.png)
+![Web-API-screenshot1](assets/chapter05/Web-API-screenshot1.png)
+![Web-API-screenshot2](assets/chapter05/Web-API-screenshot2.png)
 
 Por parte de la base de datos:
 
-![Database](assets/img/img_7.png)
+![Database](assets/chapter05/db2.png)
+![Database](assets/chapter05/db.png)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
@@ -545,7 +543,7 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 | Profiles            | POST, GET         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
 | Subscriptions               | POST, GET              | POST: ```/api/v1/subscription```, GET: ```/api/v1/subscriptions```               | GET: ```"id": int```, POST: ```"pirce": "float", "services": "string"```            | -                  | En este caso, se está devolviendo el valor de todos los objetos "subscription" alojados en el json con el nombre 'api/v1/subscription'.                 |
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 Para el despliegue de nuestra Front End App, se usó: 
 
@@ -556,9 +554,12 @@ Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.n
 
 ![SmarterASP](assets/img/img_8.png)
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
-![analytics-5-report](assets/img/img_11.png)
+
+![analytics-report](assets/chapter05/network-1.png)
+![analytics-report](assets/chapter05/network-2.png)
+![analytics-2-report](assets/chapter05/analytics-2.png)
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Conclusiones
 - Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
