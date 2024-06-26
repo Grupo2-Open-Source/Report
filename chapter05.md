@@ -547,15 +547,12 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 Para el despliegue de nuestra Front End App, se usó: 
 
-![Netlify](assets/chapter05/img_10.png)
+![Netlify](assets/img/img_9.png)
+![Netlify2](assets/img/img_10.png)
 
-Para el despliegue de nuestra API se usó: [Heroku](https://www.heroku.com/)
+Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.net/)
 
-![Heroku](assets/chapter05/img_6.png)
-
-Para el despliegue de la base de datos se usó: [AWS](https://aws.amazon.com/)
-
-![AWS](assets/chapter05/img_7.png)
+![SmarterASP](assets/img/img_8.png)
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
@@ -747,28 +744,30 @@ Por parte de la base de datos:
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
-| Nombre del Endpoint       | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                       |
-|---------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Coach                     | POST, GET              | POST: ```/api/v1/coaches``` GET: ```/api/v1/coaches, /api/v1/coaches/{coachId} ```                                                                                                                                                                         | GET: ```"id": int```, POST: ```"speciality": "string", "lengthOfService": "int", "firstName": "string", "lastName": "string", "email": "string", "image": "string"```           | -                  | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el nombre 'api/v1/coach'.                    |
-| CustomizedPlan            | POST, GET              | POST: ```/api/v1/customized-plans```, ```/api/v1/customized-plans{customizedPlanId}/routine-items```, ```/api/v1/customized-plans{customizedPlanId}/nutritional-meals```  GET: ```/api/v1/customized-plans, /api/v1/customized-plans/{customizedPlanId}``` | GET: ```"id": int```, POST: ```"objective": "string", "levelOfExperience": "string"```, ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "customized-plan" alojados en el json con el  nombre 'api/v1/customized-plan'. |
-| Profiles                  | POST, GET              | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```                                                                                                                                                              | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                             | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.                |
-| Subscriptions             | POST, GET              | POST: ```/api/v1/subscription```, GET: ```/api/v1/subscriptions```                                                                                                                                                                                         | GET: ```"id": int```, POST: ```"pirce": "float", "services": "string"```                                                                                                        | -                  | En este caso, se está devolviendo el valor de todos los objetos "subscription" alojados en el json con el nombre 'api/v1/subscription'.        |
-| users-controller          | POST, GET              | POST: ```/api/v1/users``` GET: ```/api/v1/users, /api/v1/users/{userId} ```                                                                                                                                                                                | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                             | -                  | En este caso, se está devolviendo el valor de todos los objetos "users" alojados en el json con el nombre 'api/v1/users'.                      |
-| authentication-controller | POST                   | POST: ```/api/v1/authentication/sign-up``` POST: ```/api/v1/authentication/sign-in```                                                                                                                                                                      | POST: ```"username": "string", "password": "string"```                                                                                                                          | -                  | En este caso se realiza una validación de usuario, revisando si las credenciales existen dentro de nuestra base de datos.                      |
-| profile-controller        | POST, GET              | POST: ```/api/v1/profiles``` GET: ```/api/v1/profiles, /api/v1/profiles/{profileId} ```                                                                                                                                                                    | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                             | -                  | En este caso, se está devolviendo el valor de todos los objetos "profiles" alojados en el json con el nombre 'api/v1/profiles'.                |
-| Testimonials              | POST, GET              | POST: ```/api/v1/testimonials``` GET: ```/api/v1/testimonials, /api/v1/testimonials/{testimonialId} ```                                                                                                                                                    | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                             | -                  | En este caso, se está devolviendo el valor de todos los objetos "testimonials" alojados en el json con el nombre 'api/v1/testimonials'.        |
-| Roles                     | GET                    | GET: ```/api/v1/roles```                                                                                                                                                                                                                                   | -                                                                                                                                                                               | -                  | En este caso, se está devolviendo el valor de todos los objetos "roles" alojados en el json con el nombre 'api/v1/roles'.                      |
+| Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
+|---------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Coach               | POST, GET              | POST: ```/api/v1/coaches``` GET: ```/api/v1/coaches, /api/v1/coaches/{coachId} ```                                                                                                                                          | GET: ```"id": int```, POST: ```"speciality": "string", "lengthOfService": "int", "firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                                                                                                      | -                  | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el nombre 'api/v1/coach'.              |
+| CustomizedPlan         | POST, GET              | POST: ```/api/v1/customized-plans```, ```/api/v1/customized-plans{customizedPlanId}/routine-items```, ```/api/v1/customized-plans{customizedPlanId}/nutritional-meals```  GET: ```/api/v1/customized-plans, /api/v1/customized-plans/{customizedPlanId}``` | GET: ```"id": int```, POST: ```"objective": "string", "levelOfExperience": "string"```, ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"```                                                                                    | -                  | En este caso, se está devolviendo el valor de todos los objetos "customized-plan" alojados en el json con el  nombre 'api/v1/customized-plan'. |
+| Profiles            | POST, GET         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "image": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
+| Subscriptions               | POST, GET              | POST: ```/api/v1/subscription```, GET: ```/api/v1/subscriptions```               | GET: ```"id": int```, POST: ```"pirce": "float", "services": "string"```            | -                  | En este caso, se está devolviendo el valor de todos los objetos "subscription" alojados en el json con el nombre 'api/v1/subscription'.                 |
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
-Los despliegues se han realizado en el Sprint anterior
+Para el despliegue de nuestra Front End App, se usó: 
+
+![Netlify](assets/img/img_9.png)
+![Netlify2](assets/img/img_10.png)
+
+Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.net/)
+
+![SmarterASP](assets/img/img_8.png)
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
 
-![analytics-report](assets/chapter05/img_8.png)
-![analytics-report](assets/chapter05/![img.png](img_9.png)
-
+![analytics-report](assets/chapter05/network-1.png)
+![analytics-report](assets/chapter05/network-2.png)
+![analytics-2-report](assets/chapter05/analytics-2.png)
 
 ## 5.3. Validation Interviews
 
@@ -941,6 +940,7 @@ Video About-the-Product de Gymfinity
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
  - Para lograr el éxito en este proyecto, es esencial abordar el riesgo de errores funcionales mediante pruebas exhaustivas y mejoras continuas. Dada la competencia en el mercado de aplicaciones similares, la estrategia de adquisición de clientes se enfocará en las redes sociales, aprovechando modelos de suscripción y comisiones como posibles fuentes de ingresos adicionales. Esto garantizará una experiencia de usuario óptima y una mayor satisfacción tanto para los usuarios como para los profesionales del coaching.
+ - Para la entrega del final, se abordó y profundizó sobre cómo crear un servicio API y cómo este funciona para obtener la data que se necesita para el aplicativo. Su conexión con el frontend. Y sobre todo, los datos necesarios que se requieren para tener una buena conectividad y arquitectura de infomación para el web application.
 
 ### Anexos
 
