@@ -634,7 +634,7 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 3</td>
+			<td colspan="7">Sprint 4</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
@@ -649,85 +649,69 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
 			<td>Status (To-do / In-Process / To-Review / Done)</td>
 		</tr>
 		<tr>
-			<td>EP10/US01</td>
-			<td>Acceder a EndPoints</td>
-			<td>Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.</td>
-			<td>6</td>
-			<td>All team members</td>
-			<td>In-Process</td>
-		</tr>
-		<tr>
-			<td>EP10/US02</td>
-			<td>Registrar Subscripciones</td>
-			<td>Como developer, quiero contar con un endpoint para poder registrar las subscripciones que tienen los usuarios.</td>
-			<td>2</td>
-			<td>Brenda Gamio</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US04</td>
-			<td>Registrar Usuarios</td>
-			<td>Como developer, quiero contar con un endpoint para poder registrar a los Usuarios.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US05</td>
-			<td>Registrar Rutinas</td>
-			<td>Como developer, quiero contar con un endpoint para poder registrar las rutinas.</td>
-			<td>2</td>
-			<td>Juan Pescorán</td>
+			<td>EP10/US06</td>
+			<td>Registrar IAM</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar los usuarios creados y autenticados.</td>
+			<td>3</td>
+			<td>Ángel Cancho</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>EP10/US07</td>
-			<td>Creación de persistencia de la entidad Subscription</td>
-			<td>Como developer, quiero realizar la persistencia de la información para la entidad Subscription.</td>
-			<td>2</td>
+			<td>Registrar Testimonials</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar los testimonios..</td>
+			<td>3</td>
 			<td>Brenda Gamio</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>EP10/US08</td>
-			<td>Creación de persistencia de la entidad Usuarios</td>
-			<td>Como developer, quiero implementar la persistencia de la información de la entidad User para asegurar que los datos de los usuarios se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+			<td>EP10/US11</td>
+			<td>Creación de persistencia de la entidad User</td>
+			<td>Como developer quiero hacer persistir la información de la entidad User para tener registrado.</td>
 			<td>2</td>
 			<td>Angel Cancho</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>EP10/US09</td>
-			<td> Creación de persistencia de la entidad Rutina</td>
-			<td>Como developer quiero hacer persistir la información de la entidad Rutina para tener registrado.</td>
+			<td>EP10/US12</td>
+			<td>Creación de persistencia de la entidad Member</td>
+			<td>Como developer quiero hacer persistir la información de la entidad Member para tener registrado.</td>
 			<td>2</td>
 			<td>Juan Pescorán</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>EP10/US11</td>
-			<td>Creación de resource de la entidad Subscription</td>
-			<td>Como developer quiero devolver un resource de la información de la entidad Subscription para realizar consultas.	</td>
+			<td>EP10/US13</td>
+			<td>Creación de persistencia de la entidad Testimonial</td>
+			<td>Como developer quiero hacer persistir la información de la entidad Testimonial para tener registrado.</td>
 			<td>2</td>
 			<td>Brenda Gamio</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>EP10/US12</td>
-			<td>Creación de resource de la entidad Usuarios</td>
+			<td>EP10/US018</td>
+			<td>Creación de resource de la entidad User</td>
 			<td>Como developer quiero devolver un resource de la información de la entidad User para realizar consultas.</td>
 			<td>2</td>
 			<td>Angel Cancho</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>EP10/US13</td>
-			<td>Creación de resource de la entidad Rutina</td>
-			<td>CoCreación de resource de la entidad Rutina | Como developer quiero devolver un resource de la información de la entidad Rutina para realizar consultas.</td>
+			<td>EP10/US19</td>
+			<td>Creación de resource de la entidad Member</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Member para realizar consultas.</td>
 			<td>2</td>
 			<td>Juan Pescorán</td>
 			<td>Done</td>
-		</tr>        
+		</tr>
+		<tr>
+			<td>EP10/US20</td>
+			<td>Creación de resource de la entidad Testimonial</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Testimonial para realizar consultas.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
     <tbody>
 </table>
 
