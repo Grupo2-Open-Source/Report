@@ -811,14 +811,14 @@ Edad: 19<br>
 
 **Entrevista 2:**
 
-Nombre y apellidos: <br>
-Edad: <br>
+Nombre y apellidos: Sebastian Campero<br>
+Edad: 26<br>
 
-[URL para ir a la entrevista]()
+[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EcWjf_xQ5fBCr9ytbufVQAoBJE-Zt6i75MWULePcAatcYg?e=HYZjdK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![Entrevista_Seg01_NOMBREDELENTREVISTADO]()
+![Entrevista_Seg01_NOMBREDELENTREVISTADO](assets/chapter05/interview-sprint4.png)
 
-**Resumen de la entrevista:** <td></td>
+**Resumen de la entrevista:** <td>El entrevistado encuentra la interfaz de usuario de la aplicación web muy intuitiva y fácil de navegar, destacando su diseño. Las funciones son consideradas intuitivas y prácticas. Añadió que le gustó accesibilidad para contactar con nutricionistas y coaches. Se siente cómodo usando la aplicación regularmente y la considera superior a otras similares en integración de servicios y usabilidad. No encuentra aspectos confusos, estaría dispuesto a recomendar la aplicación y no tiene sugerencias inmediatas para mejoras adicionales más allá de la existente ayuda para nuevos usuarios.</td>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
