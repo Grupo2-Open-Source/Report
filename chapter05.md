@@ -614,11 +614,11 @@ En esta sección se registra y explica el avance en términos de producto y trab
 		</tr>
         <tr>
 			<td colspan="1">Sprint 4 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 9 User Stories que tienen 5 Story points 8 de ellas y una de 3 Story points.</td>
+            <td colspan="1">Para este sprint se han elegido 8 User Stories que tienen 5 Story points.</td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">43</td>
+            <td colspan="1">40</td>
 		</tr>
 </tbody>
 </table>
@@ -626,7 +626,7 @@ En esta sección se registra y explica el avance en términos de producto y trab
 #### 5.2.4.2. Sprint Backlog 4.
 
 En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
-[Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-3)
+[Link para ingresar al board del tecer Sprint](https://trello.com/invite/b/fGqyDLCI/ATTI3be395ce15826f939c4c77b0c9e6c76a448824CB/flexpal-sprint-4)
 
 ![trello-screenshot](assets/chapter05/sprint4.png)
 
