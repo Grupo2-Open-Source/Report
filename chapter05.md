@@ -605,7 +605,7 @@ Edad: 19<br>
 
 [URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/ESZ12jO7yYJDrYsRYdlc1tYB3Bqog-_9q_nunYMO_hR7Kw?e=VAPDMg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![Entrevista_Seg01_Angel Fabian](assets/chapter02/ValidationIterview1.png)
+![Entrevista_Seg01_Angel Fabian](assets/chapter05/ValidationIterview1.png)
 
 **Resumen de la entrevista:** <td>La app es facil e intuitiva de usar visualmente, va por buen camino en la recopilacion de datos sobre el gusto del usuario para las rutinas y la dieta. Sin embargo, falta mejorar el apartado de la comunidad en la cual se necesitaria mas opciones para compartir opiniones o poder comunicarse entre ellos como comunidad</td>
 
