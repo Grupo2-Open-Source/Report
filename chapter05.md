@@ -949,6 +949,9 @@ Recomendación:<br>
 Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.<br>
 
 ## 5.4. Video About-the-Product
+Video About-the-Product de Gymfinity
+
+[Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EeRKM9UtPlFBj49lu2MTLjkBhET6v53-IbyODUwpr4Vapw?e=p0tbJF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
