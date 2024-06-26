@@ -120,3 +120,11 @@ Para el buen gestión de nuestro proyecto, se realizo el Product Backlog para el
 | 30	| EP10/US11     |	Creación de resource de la entidad Subscription	| Como developer quiero devolver un resource de la información de la entidad Subscription para realizar consultas. | 5 |
 | 31	| EP10/US12	    | Creación de resource de la entidad Usuarios | Como developer quiero devolver un resource de la información de la entidad User para realizar consultas. | 5 |
 | 32	| EP10/US13     | Creación de resource de la entidad Rutina | Como developer quiero devolver un resource de la información de la entidad Rutina para realizar consultas. | 5 |
+| 33	| EP10/US06 | Registrar IAM | Como developer, quiero contar con un endpoint para poder registrar los usuarios creados y autenticados. | 5 |
+| 34	| EP10/US07 | Registrar Testimonials | Como developer, quiero contar con un endpoint para poder registrar los testimonios. | 5 |
+| 35	| EP10/US11 | Creación de persistencia de la entidad User | Como developer quiero hacer persistir la información de la entidad User para tener registrado.  | 5 |
+| 36	| EP10/US12 | Creación de persistencia de la entidad Member | Como developer quiero hacer persistir la información de la entidad Member para tener registrado. | 5 |
+| 37	| EP10/US13 | Creación de persistencia de la entidad Testimonial | Como developer quiero hacer persistir la información de la entidad Testimonial para tener registrado. | 5 |
+| 38	| EP10/US18 | Creación de resource de la entidad User | Como developer quiero devolver un resource de la información de la entidad User para realizar consultas. | 5 |
+| 39	| EP10/US19 | Creación de resource de la entidad Member | Como developer quiero devolver un resource de la información de la entidad Member para realizar consultas. | 5 |
+| 40	| EP10/US20 | Creación de resource de la entidad Testimonial | Como developer quiero devolver un resource de la información de la entidad Testimonial para realizar consultas. | 5 |
