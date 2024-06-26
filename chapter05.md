@@ -623,7 +623,7 @@ En esta sección se registra y explica el avance en términos de producto y trab
 </tbody>
 </table>
 
-#### 5.2.4.2. Sprint Backlog 4.
+#### 5.2.4.2. Sprint Backlog 4
 
 En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
 [Link para ingresar al board del tecer Sprint](https://trello.com/invite/b/fGqyDLCI/ATTI3be395ce15826f939c4c77b0c9e6c76a448824CB/flexpal-sprint-4)
@@ -722,9 +722,9 @@ Se mostrarán los commits más importantes para la implementación de la API Pla
 | Repository                      | Branch        | Commit ID                                | Commit Message                                                             | Commit Message Body | Commited on (Date) |
 |---------------------------------|---------------|------------------------------------------|----------------------------------------------------------------------------|---------------------|--------------------|
 | JuanPescoran/FlexxPalPlatform.API | master          | 1912ee5ae41b9545859d10d38e3808ea69fafbed | chore: Initial Commit                                                     | -                   | 5/29/2024          |
-| notfakeangel/FlexxPalPlatform.API | profiles       | 1acd21123aa9fc2bc46a1f5cad80e4d89d663fc7 | feat: added Profile aggregate with embedded value objects      | -                   | 5/31/2024           |
-| JuanPescoran/FlexxPalPlatform.API       | routines    | af95ef607643bd25cb453b7dfa1f5a3b57ec46c5 | feat(counseling): added member class in the domain layer   | -                   | 6/5/2024           |
-| BGamio/FlexxPalPlatform.API | subscriptions           | 7a73a0e455d18ce44ead51802b1facfb00377bd7 | feat: Added subscription bounded context | -                   | 6/5/2024           |
+| notfakeangel/FlexxPalPlatform.API | master       | 731cfd68af836c660138e9709bd3bf5d87c901e9 | feat: updated iam      | -                   | 6/25/2024           |
+| JuanPescoran/FlexxPalPlatform.API       | master    | 1cf758fe056cbe10b91c530385ceb16b56127b32 | feat(counseling): added system.properties for heroku deployment   | -                   | 6/23/2024           |
+| BGamio/FlexxPalPlatform.API | master           | b015c8189deb6b3d66410f734a4832f121b719b3 | feat: added infrastructure.persistence.jpa.repositories layer in testimonial bounded context | -                   | 6/25/2024           |
 
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
@@ -940,6 +940,7 @@ Video About-the-Product de Gymfinity
 ### Conclusiones
  - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y profesionales del coaching en áreas relacionadas con el ejercicio y la alimentación. A través de una aplicación web, se proporcionará información sobre coaches confiables y se ofrecerán herramientas de gestión de planes personalizados y seguimiento continuo. Los usuarios buscarán comodidad y confianza al elegir servicios de coaching, mientras que los profesionales del coaching desean expandir su alcance y mejorar la comunicación con los clientes.
  - Para lograr el éxito en este proyecto, es esencial abordar el riesgo de errores funcionales mediante pruebas exhaustivas y mejoras continuas. Dada la competencia en el mercado de aplicaciones similares, la estrategia de adquisición de clientes se enfocará en las redes sociales, aprovechando modelos de suscripción y comisiones como posibles fuentes de ingresos adicionales. Esto garantizará una experiencia de usuario óptima y una mayor satisfacción tanto para los usuarios como para los profesionales del coaching.
+ - Para la entrega del final, se abordó y profundizó sobre cómo crear un servicio API y cómo este funciona para obtener la data que se necesita para el aplicativo. Su conexión con el frontend. Y sobre todo, los datos necesarios que se requieren para tener una buena conectividad y arquitectura de infomación para el web application.
 
 ### Anexos
 
