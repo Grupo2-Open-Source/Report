@@ -222,19 +222,6 @@ Imagen 5 - Entrevista 1
 
 **Resumen de la entrevista:** El entrevistado nos comenta a cerca de su gran interés a cerca de la actividad física cuando niño, por ello estudió y en estos momentos está sacando una certificación de coaching profesional mientras ejerce su carrera a sus 22 años. Para él, la comunicación usuario-coach es de lo más importante, y más si es virtual, pues, Adrián nos indica que hay una gran ventaja a comparación de la virtualidad, ya que feedbacks, consejos y regulaciones que brinda a sus usuarios puede ser más consistente, ya que la disponibilidad es más grande.
 
-**Entrevista #2**
-
-Nombre y apellidos:  Jaqueline Rodríguez <br>
-Edad: 24 <br>
-[URL para ir a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EUffeZIZvipMoIEP7KmF74ABd1ZX9WKkSsknz2XiZLmczw?e=6SLBuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-![Entrevista_Seg02_Jaqueline](assets/chapter02/EntrevistaCoach.png)
-<br>
-Imagen 6 - Entrevista 2
-
-**Resumen de la entrevista:** La entrevistada nos comenta sobre el interés acerca de ayudar a los demás a entrenar y que alcancen sus metas, nos comenta también las dificultades que tuvo con algunos clientes cuando ella les intentaba ayudar. Finalmente nos comenta que el usar una aplicación web le resulta interesante y cree que le ayudará en su trabajo como coach.
-
-
 ### 2.2.3. Análisis de entrevistas.
 - #### Analisis Primer Segmento:
 ![Pregunta1](assets/chapter02/Resultados_Segmento1_Pregunta1.png)
